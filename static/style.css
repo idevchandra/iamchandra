@@ -82,8 +82,15 @@ margin-top: 30px;
 	color: rgb(71, 44, 45)
 }
 
-#menu .runningtext {
+#menu .headertext {
 	font-size: 15px;
+	font-weight: bold;
+	color: #666666;
+	line-height: 2.0;
+}
+
+#menu .runningtext {
+	font-size: 14px;
 	color: #666666;
 	line-height: 1.6;
 }
