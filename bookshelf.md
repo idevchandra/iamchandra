@@ -13,4 +13,4 @@ comments: false
 *   [The Alchemist](https://www.amazon.com/Alchemist-Paulo-Coelho/dp/0061122416) by Paulo Coelho  
 *   [Inside Steve's Brain](https://www.amazon.com/dp/B01K15BMIM/ref=cm_sw_r_tw_dp_U_x_9EkyEb43A93WK) by Leander Kahney  
 *   [Be Here Now](https://www.amazon.com/dp/0517543052/ref=cm_sw_r_tw_dp_U_x_nLkyEbJ932JND) by Ram Dass  
-*   [Steve Jobs](https://www.amazon.com/dp/B01K15BMIM/ref=cm_sw_r_tw_dp_U_x_9EkyEb43A93WK) by Walter Isaacson</div>
+*   [Steve Jobs](https://www.amazon.com/dp/B01K15BMIM/ref=cm_sw_r_tw_dp_U_x_9EkyEb43A93WK) by Walter Isaacson
