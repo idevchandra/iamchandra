@@ -8,7 +8,7 @@ image: "/remember-shakti/remembershakti.jpg"
 ---
 
 <figure>
-<img src="/remember-shakti/musicaltrinity.png" alt="Caranatic Music Trinity - (L to R) Muttuswami Dikshitulu, Tyagaraja, Syama Sastry">
+<img src="/assets/images/musicaltrinity.png" alt="Caranatic Music Trinity - (L to R) Muttuswami Dikshitulu, Tyagaraja, Syama Sastry">
 <figcaption>Caranatic Music Trinity - (L to R) Muttuswami Dikshitulu, Tyagaraja, Syama Sastry</figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ image: "/remember-shakti/remembershakti.jpg"
 In my Bangalore days, I learnt guitar a little. Then, I happen to listen John McLaughlin Mahavishnu Orchestra’s Remember Shakti. Shankar Mahadevan was the guest, for vocals. Tabla by Zakir, Mandolin by Srinivas (rest in peace, legend!), Selvaganesh on Ghatam. I was spellbound by all those tracks — Caruna, Ma No Pa, Sakhi and Giriras Sudha. I was just spellbound. I took leave from work and roamed in Bangalore chasing for that CD/DVD. I could get nowhere. But in one Music Planet I found one but guest was [Hariprasad Chaurasia](https://en.wikipedia.org/wiki/Hariprasad_Chaurasia). I did not think twice, bought it.  
 
 <figure>
-<img src="/remember-shakti/remembershakti.jpg" alt="">
+<img src="/assets/images/remembershakti.jpg" alt="">
 <figcaption></figcaption>
 </figure>
 

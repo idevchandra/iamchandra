@@ -8,7 +8,7 @@ image: "/look-at-the-stars/calvinhobbes.png"
 ---
 
 <figure>
-<img src="/look-at-the-stars/calvinhobbes.png" alt="Calvin Hobbes - Looking at the stars">
+<img src="/assets/images/calvinhobbes.png" alt="Calvin Hobbes - Looking at the stars">
 <figcaption>Calvin Hobbes - Looking at the stars</figcaption>
 </figure>
 
@@ -17,7 +17,7 @@ image: "/look-at-the-stars/calvinhobbes.png"
 When I was a child, my father used to take me upstairs at night, show me star constellations, make me point them out, teach me about stars, celestial bodies and astronomy. One nakshatra mandalam (Telugu: నక్షత్ర మండలం, Sanskrit: नक्षत्र मंडलम) used to always grab our attention as it got so much importance in Hindu mythology — [Saptarshi](https://en.wikipedia.org/wiki/Saptarishi) Mandal (Telugu: సప్తర్షి మండలం, Sanskrit:सप्तर्षि मंडलम, English: [Big Dipper](https://en.wikipedia.org/wiki/Big_Dipper)).  
 
 <figure>
-<img src="/look-at-the-stars/pointasterism.png" alt="Big Dipper asterism">
+<img src="/assets/images/pointasterism.png" alt="Big Dipper asterism">
 <figcaption>Big Dipper asterism</figcaption>
 </figure>
 
@@ -30,7 +30,7 @@ Also, Dhruva means astronomical pole. And the Polaris word is related to Axial P
 **Hindu Marriage**: In the Vedic and Puranic<sup>1</sup> literature, Arundhati<sup>2</sup> is regarded as the epitome of chastity, conjugal bliss and wifely devotion. In post-Puranic epic poems in Sanskrit and Hindi, she has been described as “chaste and revered” and with a character that is “unblemished, inspiring and worthy of imitation”. In Hindu marriages, the groom would point or show the bride the position of the “star” Arundhati, symbolizing how should be a bond between a husband and wife.  
 
 <figure>
-<img src="/look-at-the-stars/dipper.png" alt="Big Dipper">
+<img src="/assets/images/dipper.png" alt="Big Dipper">
 <figcaption>Big Dipper</figcaption>
 </figure>
 

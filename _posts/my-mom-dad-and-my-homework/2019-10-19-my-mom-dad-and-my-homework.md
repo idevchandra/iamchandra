@@ -10,7 +10,7 @@ image: "/my-mom-dad-and-my-homework/projectmoon.png"
 I came across this post on TechCrunch. A [kickstarter project](https://www.moonproject.space/), building a “perfect” moon for living room. The making of “this” moon is intriguing. The makers had contacted NASA for topographical data to make the moon map. It has the closest-to-true scale of craters, mountains and valleys of the moon.  
 
 <figure>
-<img src="/my-mom-dad-and-my-homework/project.png" alt="MoonProject">
+<img src="/assets/images/project.png" alt="MoonProject">
 <figcaption>Moon Project</figcaption>
 </figure>
 
