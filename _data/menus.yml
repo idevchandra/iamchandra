@@ -1,0 +1,15 @@
+- title: Home
+  url: /
+  external: false
+
+- title: Posts
+  url: /posts
+  external: false
+
+- title: Bookshelf
+  url: /bookshelf
+  external: false
+
+- title: Articles I Liked
+  url: /articles
+  external: false
