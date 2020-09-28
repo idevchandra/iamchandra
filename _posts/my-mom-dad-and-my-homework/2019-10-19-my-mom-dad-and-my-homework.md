@@ -24,7 +24,7 @@ I copied solar eclipse drawing from textbook onto homework book. My mom came and
 
 For the last time before going to dinner, mom checked our homework. My sister was “let go” :) as she finished her home work properly. My turn! My homework looked neat I thought. Mom asked me to explain about lunar eclipse. I mumbled something. Sure, I spoke something. My mom asked me to speak clearly. I mumbled again. She understood that I did not understand eclipses at all. She explained what eclipse was, verbally. I did not get it. She explained again. I did not get it. I clearly remember my mom was wearing a lite sandal powder colored cotton [sari](https://en.wikipedia.org/wiki/Sari#Nivi_style). She put my book down. She explained by moving her hands in “space” asking me to imagine Sun here, Earth there and the Moon somewhere. :) I was lost in [space-dinner-time](https://en.wikipedia.org/wiki/Spacetime) continuum :). I did not understand it.  
 
-> My idea of nine planets was like, standing where you are, we could point finger into the sky and say Sun, Mercury, Venus, Earth, Mars and so on. :/ For me, Earth was one more planet up above the sky in the outer space along with these other planets.
+> I feel dumb to say this. When I was a kid, my idea of nine planets was like, standing where you are, we could point finger into the sky and say Sun, Mercury, Venus, Earth, Mars and so on. :/ For me, Earth was one more planet up above the sky in the outer space along with these other planets.
 
 I was in my own thoughts and confusion in the space my mom created. I think there was too much gravity, so time ran slower. I could hear my mom was still explaining things to me. I came out of my dreams when my mom asked me “Did you understand it yet?”. :)  
 
