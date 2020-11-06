@@ -10,11 +10,7 @@ author:
   name: Chandra Polepeddi # author name
   bio1: Chandra Polepeddi leads and builds mobile products for Financial, Healthcare and Research & Development sectors. Previously he worked on Banking and Health Care projects and developed consumer products for macOS (OS X), Windows, iOS, watchOS, iPadOS and Android.
   bio2: He has experience in managing and directing mobile products and technology teams.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+  twitter: arcrandom # twitter username
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
