@@ -43,4 +43,4 @@ For a kid who is listening to his dad telling all this science, astronomy and ce
 May [Lord Shiva](https://en.wikipedia.org/wiki/Shiva) bless you with great happiness and satisfaction.  
 
 <sup><span class="blogpostnotes">1\. Source: Wikipedia. Refer: [Purana](https://en.wikipedia.org/wiki/Puranas) (Telugu: పురాణం , Sanskrit: पुराण)</span></sup>  
-<sup><span class="blogpostnotes">2\. Source: Wikipedia. Refer: [Arundhati](https://en.wikipedia.org/wiki/Arundhati_(Hinduism)) (Telugu: అరుంధతి, Sanskrit: अरुन्धती)</sup>  
+<sup><span class="blogpostnotes">2\. Source: Wikipedia. Refer: [Arundhati](https://en.wikipedia.org/wiki/Arundhati_(Hinduism)) (Telugu: అరుంధతి, Sanskrit: अरुन्धती)</sup>

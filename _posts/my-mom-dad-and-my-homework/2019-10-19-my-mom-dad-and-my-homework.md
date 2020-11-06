@@ -7,6 +7,8 @@ description: How my dad helped me in finishing my homework while mom was worried
 image: "/my-mom-dad-and-my-homework/projectmoon.png"
 ---
 
+<meta property="og:image" content="/assets/img/ogp.png">
+
 I came across this post on TechCrunch. A [kickstarter project](https://www.moonproject.space/), building a “perfect” moon for living room. The making of “this” moon is intriguing. The makers had contacted NASA for topographical data to make the moon map. It has the closest-to-true scale of craters, mountains and valleys of the moon.  
 
 <figure>
