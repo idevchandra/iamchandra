@@ -2,7 +2,7 @@
 title: Chandra Polepeddi # site title
 description: 
 lang: en-US # default lang
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: /assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
