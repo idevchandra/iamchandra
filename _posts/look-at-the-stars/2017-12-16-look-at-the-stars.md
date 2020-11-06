@@ -4,7 +4,7 @@ date: 2017-12-16 11:58:47 +00:00
 modified: 2017-12-16 16:49:47 +00:00
 tags: [life, astronomy]
 description: Stargazing, big dipper and Hindu marriage.
-image: "/look-at-the-stars/calvinhobbes.png"
+image: "/assets/img/ogp.png"
 ---
 
 <figure>
