@@ -4,7 +4,7 @@ permalink: /articles
 layout: page
 comments: false
 ---
-
+*   [Steve Jobs’s last gambit: Apple’s M1 Chip](https://om.co/2020/11/17/why-m1-chip-by-apple-matters/), by Om Malik. Nov 17, 2020.
 *   [Inside Mark Zuckerberg's Lost Notebook](./assets/notebookofmarkz.pdf), from Wired. Feb 12, 2020.
 *   [Satya Nadella's 3-rule method for running effective meetings](https://www.businessinsider.com/microsoft-ceo-satya-nadellas-3-rule-method-for-running-meetings-2019-8) Oct 22, 2019.
 *   [Alan Kay and OO Programming](https://ovid.github.io/articles/alan-kay-and-oo-programming.html) Courtest of Ovid. Jun 17, 2019.
