@@ -11,9 +11,9 @@ image: "/assets/img/ogp.png"
 <img src="/assets/images/ab_as.png" alt="">
 </figure>
 
-[Ādi Śankarāćārya](https://en.wikipedia.org/wiki/Adi_Shankara) (hereinafter referred to as "Adi Shankara") is the most reverred and the most important philospher, theologian and  social reformist in the history of [Advaita Vedānta](https://en.wikipedia.org/wiki/Advaita_Vedanta) (अद्वैत वेदान्त, అద్వైత వేదాంతం, translation: nondualism). Adi Shankara mastered [ćaturvéda](https://en.wikipedia.org/wiki/Vedas) (చతుర్వేదాలు, चतुर्वेद) by the early age of 8, [Brahmasūtrās](https://en.wikipedia.org/wiki/Brahma_Sutras) by the age of 16 and authored their comprehensive bhāshya (tranlation: commentary. भाष्य, భాష్యం)<sup>[1]</sup>. 
+[Ādi Śankarāćārya](https://en.wikipedia.org/wiki/Adi_Shankara) (hereinafter referred to as "Adi Shankara") is the most revered and the most important philosopher, theologian and  social reformist in the history of [Advaita Vedānta](https://en.wikipedia.org/wiki/Advaita_Vedanta) (अद्वैत वेदान्त, అద్వైత వేదాంతం, translation: non-dualism). Adi Shankara mastered [ćaturvéda](https://en.wikipedia.org/wiki/Vedas) (చతుర్వేదాలు, चतुर्वेद) by the early age of 8, [Brahmasūtrās](https://en.wikipedia.org/wiki/Brahma_Sutras) by the age of 16 and authored their comprehensive bhāshya (translation: commentary. भाष्य, భాష్యం)<sup>[1]</sup>. 
 
-In the times of Shankara's birth, Hinduism was fallacioiusly practiced, grown into conflicting sects and schools <sup>[2]</sup>, lacking a true leadership causing spiritual, religious, philosophical confusion and perplextion in Hindus and followers. By the age of 32, he travelled across the Indian subcontinent to propagate his philosophy and theories through discourses, invited and challenged thinkers, philosophers from other schools for open debates, disproved their theories, practices and reestablished the primacy and supremacy of advaita vendta. 
+In the times of Shankara's birth, Hinduism was fallaciously practiced, grown into conflicting sects and schools <sup>[2]</sup>, lacking a true leadership causing spiritual, religious, philosophical confusion and perplextion in Hindus and followers. By the age of 32, he travelled across the Indian subcontinent to propagate his philosophy and theories through discourses, invited and challenged thinkers, philosophers from other schools for open debates, disproved their theories, practices and reestablished the primacy and supremacy of advaita vendta. 
  
 He organized four [Maṭhas](https://en.wikipedia.org/wiki/Matha) (मठ, మఠం, translation: monasteries) and designated four of his primary disciples to head the maṭhas. These maṭhas have been preserving and spreading numerous advaita literary and spiritual works, teachings and scriptures to date. These Maṭhas were originally established by Vibhaandaka and his son Rushyasringa. 
 
@@ -55,7 +55,7 @@ They question that why Adi Shankara proposed Bhakti Yoga that differentiates spi
 
 ### Karma Mārga
 
-Next step in spiritual path is [Karma marga](https://en.wikipedia.org/wiki/Karma_yoga). Adi Shankara's teachings asks spiritual practitioner that one should act and fulfill his duties selflessly according to Dharma with out getting attached to the personal results or consequences. Another meaning could be, one should perform action as per dharma simply because it is just right. In his Bhagavad Gita bhasya (commentary), Adi Shankara asks spiritual practitioner to choose Karma Yoga instead of [Sannyasa](https://en.wikipedia.org/wiki/Sannyasa). This underscores the Adi Shankara emphasizing spiritual practitioner to bind himself to duties instead of renunciation. Even though Adi Shankara is sannyasi, he did not spend his life immersing himself in [Samadhi](https://en.wikipedia.org/wiki/Samadhi), a state of meditative consciousness. He acted always towards his duties as asked by his guru [Gauḍapādācārya](https://en.wikipedia.org/wiki/Gaudapada), debating his spiritual and philosophical works with other school sages, writing commentaries, and strenghthening the Advaita Siddhanta. 
+Next step in spiritual path is [Karma marga](https://en.wikipedia.org/wiki/Karma_yoga). Adi Shankara's teachings asks spiritual practitioner that one should act and fulfill his duties selflessly according to Dharma with out getting attached to the personal results or consequences. Another meaning could be, one should perform action as per dharma simply because it is just right. In his Bhagavad Gita bhasya (commentary), Adi Shankara asks spiritual practitioner to choose Karma Yoga instead of [Sannyasa](https://en.wikipedia.org/wiki/Sannyasa). This underscores the Adi Shankara emphasizing spiritual practitioner to bind himself to duties instead of renunciation. Even though Adi Shankara is sannyasi, he did not spend his life immersing himself in [Samadhi](https://en.wikipedia.org/wiki/Samadhi), a state of meditative consciousness. He acted always towards his duties as asked by his guru [Gauḍapādācārya](https://en.wikipedia.org/wiki/Gaudapada), debating his spiritual and philosophical works with other school sages, writing commentaries, and strengthening the Advaita Siddhanta. 
 
 ### Jñāna Mārga
 The third step, [Jñāna marga](https://en.wikipedia.org/wiki/Jnana_yoga), emphasizes on knowledge. Attaining the knowledge starts by asking, "Who am I" and "What am I". With the help of Guru, the spiritual practitioner reaches the state where he experiences the insights on the nature of Self - Atman. He denotes one can attain knowledge by Sravana (श्रावण, శ్రవణం, listening), Manana (reflection, contemplating, thinking, introspect and retrospect, मनन, మననం), Nididhyāsana (profound meditation, నిదిధ్యాసన, निदिध्यासन). 
@@ -67,7 +67,7 @@ In Aatma Bodha, Adi Shankara discusses extensively about the knowledge of findin
 ### <a name="AatmaBodha"></a>Aatma Bodha - Self Knowledge
 Aatma Bodha 
 
-Adi Shankara, through his writings and teachings, allows a place for Karma and Bhakti while emphasizing the prime necessity of knowledge for the realization of the Self. Aatma Bodha is a prakarana grantha (prose in the form of verses) of 68 stanzas. It presents the path to the Self realization. He emphasizes on putting thoughts into action and how only actions would give the results. He tells the sadhaka (aspirant) that just knowing that meditation would help in realizing Self in not sufficient. He asks to find a Guru and question him how could he help him in realzing the Self. 
+Adi Shankara, through his writings and teachings, allows a place for Karma and Bhakti while emphasizing the prime necessity of knowledge for the realization of the Self. Aatma Bodha is a prakarana grantha (prose in the form of verses) of 68 stanzas. It presents the path to the Self realization. He emphasizes on putting thoughts into action and how only actions would give the results. He tells the sadhaka (aspirant) that just knowing that meditation would help in realizing Self in not sufficient. He asks to find a Guru and question him how could he help him in realizing the Self. 
 
 He asks sadhaka if he is calm in his mind, devoid of all the attachments and is desirous of liberation. He presented the below requisites for sadhaka before he searches for a Guru<sup>[5]</sup>.
 
@@ -100,31 +100,31 @@ I am giving below stanzas that I felt important or connected.
 | The trembling moon on the water is due to the waves in it. Hence the trembling cannot be attributed to the moon. In the same way the ignorance and darkness belong to buddhi (mind) but the not the Ātman (soul) |
 
 |प्रकाशोऽर्कस्य तोयस्य शैत्यमग्नेर्यथोष्णता ।<br>स्वभावः सच्चिदानन्दनित्यनिर्मलतात्मनः ॥ २४॥|
-|The nature of Atman is Etnernity, Purity, Reality, Consciousness and Bliss. Just as luminosity is the nature of the sun, coolness of water, and heat of fire|
+|The nature of Atman is Eternity, Purity, Reality, Consciousness and Bliss. Just as luminosity is the nature of the sun, coolness of water, and heat of fire|
 
 |आविद्यकं शरीरादि दृश्यं बुद्बुदवत्क्षरम् ।<br>एतद्विलक्षणं विद्यादहं ब्रह्मेति निर्मलम् ॥ ३०॥|
-|THe body and senses are created by avidyā (lack of knowledge) and of the nature of an object, are perishable, like bubbles. Realize through differentiation and that you are stainless Supreme Soul, completely different from them|
+|The body and senses are created by avidyā (lack of knowledge) and of the nature of an object, are perishable, like bubbles. Realize through differentiation and that you are stainless Supreme Soul, completely different from them|
 
 |निर्गुणो निष्क्रियो नित्यो निर्विकल्पो निरंजनः ।<br>निर्विकारो निराकारो नित्यमुक्तोऽस्मि निर्मलः ॥ ३४॥|
 |I am without attributes and action, eternal and pure, free from stain and desire, changeless and formless, and always free.|
 
 |नित्यशुद्धविमुक्तैकमखण्डानन्दमद्वयम् । <br>सत्यं ज्ञानमनन्तं यत्परं ब्रह्माहमेव तत् ॥ ३६॥|
-|I am verily that Supreme Brahman, which is eternal, stainless, and free; whichi s One, indivisible, and non-dual; and which iis of the nature of Bliss, Truth, Knowledge, and Infinity.|
+|I am verily that Supreme Brahman, which is eternal, stainless, and free; which is One, indivisible, and non-dual; and which is of the nature of Bliss, Truth, Knowledge, and Infinity.|
 
 |एवमात्मारणौ ध्यानमथने सततं कृते । <br> उदितावगतिर्ज्वाला सर्वाज्ञानेन्धनं दहेत् ॥ ४२॥ |
-|Comparable to the rubbing of wood to get fire and there by wood getting consumed, by constant meditation is kindled the flame of Knowledge, which completely burns upt he fuel of ignorace|
+|Comparable to the rubbing of wood to get fire and there by wood getting consumed, by constant meditation is kindled the flame of Knowledge, which completely burns up the fuel of ignorance|
 
 |आत्मैवेदं जगत्सर्वमात्मनोऽन्यन्न विद्यते । <br>मृदो यद्वद्घटादीनि स्वात्मानं सर्वमीक्षते ॥४८॥|
 |The tangible universe is nothing but verify Ātman; nothing whatsoever exists that is other than Ātman. As pots and jars are verify clay and cannot be anything but clay, but merely in different shapes, so, to the enlightened, all that is perceived is the Self. |
 
 |अखण्डानन्दरूपस्य तस्यानन्दलवाश्रिताः । <br>ब्रह्माद्यास्तारतम्येन भवन्त्यानन्दिनोऽखिलाः ॥५८॥|
-|Deities like Brahmā and Indra taste only a particle of the unlimited Bliss of Brahman and enjoy, in proportion, their shares of that particle. <br><br>In Hinduism, deities and gods are phenomenal beings subject to the laws of time, space and causation. Meritorious and ritheous men, after death, become gods in order to enjoy the fruit of their good action. Afterwards they come down to the earth in order to resume the thread of their worldly career. Being less gross then men, the gods and deities reflect more of the Consciousness and Bliss of The Brahman.|
+|Deities like Brahmā and Indra taste only a particle of the unlimited Bliss of Brahman and enjoy, in proportion, their shares of that particle. <br><br>In Hinduism, deities and gods are phenomenal beings subject to the laws of time, space and causation. Meritorious and righteous men, after death, become gods in order to enjoy the fruit of their good action. Afterwards they come down to the earth in order to resume the thread of their worldly career. Being less gross then men, the gods and deities reflect more of the Consciousness and Bliss of The Brahman.|
 
 |जगद्विलक्षणं ब्रह्म ब्रह्मणोऽन्यन्न किंचन ।<br>ब्रह्मान्यद्भाति चेन्मिथ्या यथा मरुमरीचिका ॥ ६३॥|
 |In the universe, there is nothing but Brahman exists. If any object other than Brahman appears to exists, it is unreal, like a mirage.|
 
 |दिग्देशकालाद्यनपेक्ष्य सर्वगं <br>शीतादिहृन्नित्यसुखं निरंजनम् ।निरंजनम् <br>यः स्वात्मतीर्थं भजते विनिष्क्रियः<br>स सर्ववित्सर्वगतोऽमृतो भवेत् ॥६८॥|
-|He who, renouncing all activities, worships in the sacred and stainless shrine of Ātman, which is independent of time, place, and distance; whichi s present everywhere; which is the destroyer of heat and cold, and the other opposites; and which is the giver of eternal happiness, becomes all-knowing and all-pervading and attains, hereafter, Immortality.|
+|He who, renouncing all activities, worships in the sacred and stainless shrine of Ātman, which is independent of time, place, and distance; which is present everywhere; which is the destroyer of heat and cold, and the other opposites; and which is the giver of eternal happiness, becomes all-knowing and all-pervading and attains, hereafter, Immortality.|
 
 # References
 <p style="font-size:10px">
