@@ -26,7 +26,7 @@ His literary, spiritual and philosophical works are mainly classified<sup>[3]</s
     * 11 Upanishads 
     * Bhagavadgita
     * Vishnu Sahasranama
-    * Sanatsuatiya
+    * Sanatsujatiya
     * Gayatri Mantra
 * Prakarana Granthas (philosophical treatise)
     * [Atma Bodha](#AatmaBodha)
@@ -34,14 +34,14 @@ His literary, spiritual and philosophical works are mainly classified<sup>[3]</s
     * Upadesa Sahasri 
     * Panchikarana
     * Manisha Panchakam
-    * Vakya VRtti and others
+    * Vakya Vritti and others
 * Stotras (hymns)
     * Bhaja Govindam
     * Siva Manasa Puja
     * Kanakadhara Stotram
     * Sivananda Lahari
     * Soundarya Lahari
-    * Sri Lakshmi NRsimha Karavalamba Stotram and others
+    * Sri Lakshmi Nrisimha Karavalamba Stotram and others
 
 # <a name="AatmaBodhaPreface"></a>Preface - Atma Bodha
 Adi Shankaracharya is the most misunderstood<sup>[4]</sup> Hindu philosopher and reformist due to his stressing on "Realizing of Self and Truth" instead of [Man](https://en.wikipedia.org/wiki/Man_(word))'s [Karma](https://en.wikipedia.org/wiki/Karma_yoga) (duty, action). He explained the key difference between Hinduism and Buddhism by stressing that Ātman (Soul) exists, which is negated by Buddhism that neither the Soul nor the Self exist. This misconception comes from Western and Buddhist philosophers. But, Adi Shankara's impeccable bhashya (commentary) work on Bhagavad Gita and Atma Bodha teaches and convinces otherwise. 
@@ -51,11 +51,13 @@ It would be difficult for a spiritual practitioner to understand the [Brahman St
 
 > *This Saguna Bhakti is the most confusing* aspect for westerners and buddhists. 
 
-They question that why Adi Shankara proposed Bhakti Yoga that differentiates spiritual practitioner and Brahman while preaching spiritual practitioner and Brahman are one and the same. The confusion could be cleared by understanding that the Deity helps the spiritual practitioner, while meditating or praying, to concentrate on the most known and dearest tangible form - a Human form with superior attributions - [Siva](https://en.wikipedia.org/wiki/Shiva), [Vishnu](https://en.wikipedia.org/wiki/Vishnu) and [Divine Mother](https://en.wikipedia.org/wiki/Adi_Parashakti). This notion of Bhakti and deity worship lays foundation for the spiritual exploration. 
+They question that why Adi Shankara proposed Bhakti Yoga that differentiates spiritual practitioner and Brahman while preaching Man and Brahman are one and the same. The confusion could be cleared by understanding that the Deity helps the spiritual practitioner, while meditating or praying, to concentrate on the most known and dearest tangible form - a Human form with superior attributions - [Siva](https://en.wikipedia.org/wiki/Shiva), [Vishnu](https://en.wikipedia.org/wiki/Vishnu) and [Divine Mother](https://en.wikipedia.org/wiki/Adi_Parashakti). This notion of Bhakti and deity worship lays foundation for the spiritual exploration. 
 
 ### Karma Mārga
 
-Next step in spiritual path is [Karma marga](https://en.wikipedia.org/wiki/Karma_yoga). Adi Shankara's teachings asks spiritual practitioner that one should act and fulfill his duties selflessly according to Dharma with out getting attached to the personal results or consequences. Another meaning could be, one should perform action as per dharma simply because it is just right. In his Bhagavad Gita bhasya (commentary), Adi Shankara asks spiritual practitioner to choose Karma Yoga instead of [Sannyasa](https://en.wikipedia.org/wiki/Sannyasa). This underscores the Adi Shankara emphasizing spiritual practitioner to bind himself to duties instead of renunciation. Even though Adi Shankara is sannyasi, he did not spend his life immersing himself in [Samadhi](https://en.wikipedia.org/wiki/Samadhi), a state of meditative consciousness. He acted always towards his duties as asked by his guru [Gauḍapādācārya](https://en.wikipedia.org/wiki/Gaudapada), debating his spiritual and philosophical works with other school sages, writing commentaries, and strengthening the Advaita Siddhanta. 
+Next step in spiritual path is [Karma marga](https://en.wikipedia.org/wiki/Karma_yoga). Adi Shankara's teachings ask spiritual practitioner that one should act and fulfill his duties selflessly in [Dharmic](https://en.wikipedia.org/wiki/Dharma) way with out getting attached to the personal results or consequences. Another meaning could be, one should perform action as per dharma simply because it is just right. 
+
+In his Bhagavad Gita bhasya (commentary), Adi Shankara asks spiritual practitioner to choose Karma Yoga instead of [Sannyasa](https://en.wikipedia.org/wiki/Sannyasa). This underscores that Adi Shankara was emphasizing spiritual practitioner to bind himself to duties instead of renunciation. Even though Adi Shankara is sannyasi, he did not spend his life immersing himself in [Samadhi](https://en.wikipedia.org/wiki/Samadhi), a state of meditative consciousness. He acted always towards his duties as asked by his guru [Gauḍapādācārya](https://en.wikipedia.org/wiki/Gaudapada), debating his spiritual and philosophical works with other school sages, writing commentaries, and strengthening the Advaita Siddhanta. 
 
 ### Jñāna Mārga
 The third step, [Jñāna marga](https://en.wikipedia.org/wiki/Jnana_yoga), emphasizes on knowledge. Attaining the knowledge starts by asking, "Who am I" and "What am I". With the help of Guru, the spiritual practitioner reaches the state where he experiences the insights on the nature of Self - Atman. He denotes one can attain knowledge by Sravana (श्रावण, శ్రవణం, listening), Manana (reflection, contemplating, thinking, introspect and retrospect, मनन, మననం), Nididhyāsana (profound meditation, నిదిధ్యాసన, निदिध्यासन). 
@@ -65,9 +67,8 @@ The third step, [Jñāna marga](https://en.wikipedia.org/wiki/Jnana_yoga), empha
 In Aatma Bodha, Adi Shankara discusses extensively about the knowledge of finding Atman and knowing Self or gain knowledge about Self. 
 
 ### <a name="AatmaBodha"></a>Aatma Bodha - Self Knowledge
-Aatma Bodha 
 
-Adi Shankara, through his writings and teachings, allows a place for Karma and Bhakti while emphasizing the prime necessity of knowledge for the realization of the Self. Aatma Bodha is a prakarana grantha (prose in the form of verses) of 68 stanzas. It presents the path to the Self realization. He emphasizes on putting thoughts into action and how only actions would give the results. He tells the sadhaka (aspirant) that just knowing that meditation would help in realizing Self in not sufficient. He asks to find a Guru and question him how could he help him in realizing the Self. 
+Adi Shankara, through his writings and teachings, allows a place for Karma and Bhakti while emphasizing the prime necessity of knowledge for the realization of the Self. Aatma Bodha is a prakarana grantha (prose in the form of verses) of 68 stanzas. It presents the path to the Self realization. He emphasizes on putting thoughts into action and how only actions would give the results. He tells the sadhaka (aspirant) that just knowing that meditation would help in realizing Self in not sufficient. He asks to find a Guru and question him how could he help him in realizing the Self. And, with the help of Guru, he then should practice. 
 
 He asks sadhaka if he is calm in his mind, devoid of all the attachments and is desirous of liberation. He presented the below requisites for sadhaka before he searches for a Guru<sup>[5]</sup>.
 
@@ -85,7 +86,7 @@ He asks sadhaka if he is calm in his mind, devoid of all the attachments and is 
 I am giving below stanzas that I felt important or connected. 
 
 | तपोभिः क्षीणपापानां शान्तानां वीतरागिणाम् ।<br>मुमुक्षूणामपेक्ष्योऽयमात्मबोधो विधीयते ॥१॥ |
-| This awakening to the Self is recorded for those whose inner darkness has been worn away by strong effort, who has reached restfulness, from whom passion has departed, who seek perfect Freedom.|
+| This awakening to the Self is recorded for those whose inner darkness has been worn away by *strong effort*, who has reached restfulness, from whom passion has departed, who seek perfect Freedom.|
 
 | अविरोधितया कर्म नाविद्यां विनिवर्तयेत् ।<br>विद्याऽविद्यां निहन्त्येव तेजस्तिमिरसङ्घवत् ॥३॥ |
 | Works cannot destroy unwisdom, as these two are not contraries; but wisdom destroys unwisdom, as light the host of darkness.|
