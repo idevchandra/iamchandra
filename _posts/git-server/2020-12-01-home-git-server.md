@@ -7,6 +7,11 @@ description: Setup a git server in your home and access on other computers in yo
 image: "/assets/img/ogp.png"
 ---
 
+<figure>
+<img src="/assets/images/ubgl.png" alt="">
+</figure>
+
+
 I installed [Ubuntu server 20.04](https://releases.ubuntu.com/20.04/) on Mac Book Pro 2009 Mid model (2.26GHz Intel Core 2 Duo, 8 GB RAM, 256 GB HDD). You can find GitLab requirements [here](https://docs.gitlab.com/ee/install/requirements.html).
 
 After finishing the server installation I installed [Xfce](https://www.xfce.org) DE as it is lightweight. I felt it is too primitive. So, I uninstalled it and installed [Gnome](https://www.gnome.org) basic DE. 
