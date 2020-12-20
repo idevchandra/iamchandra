@@ -92,7 +92,7 @@ Also, you can customize GitLab UI by changing
 * Syntax highlighting theme for source files etc.
 
 <figure>
-<img src="/assets/images/gitlab.png" alt="">
+<img src="/assets/images/gl.png" alt="">
 </figure>
 
 ## Post Installation: Stop Linux from sleeping or getting suspended
