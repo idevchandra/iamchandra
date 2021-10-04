@@ -1,15 +1,15 @@
 # Site settings
 title: Chandra Polepeddi # site title
-description: Chandra Polepeddi leads and builds mobile products for Financial, Healthcare and Research & Development sectors. Previously he worked on Banking and Health Care projects and developed consumer products for macOS (OS X), Windows, iOS, watchOS, iPadOS and Android.
+description: handra Polepeddi is a mobile applications lead architect and developer.
 lang: en-US # default lang
 image: /assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Chandra Polepeddi # author name
-  bio1: Chandra Polepeddi leads and builds mobile products for Financial, Healthcare and Research & Development sectors. Previously he worked on Banking and Health Care projects and developed consumer products for macOS (OS X), Windows, iOS, watchOS, iPadOS and Android.
-  bio2: He has experience in managing and directing mobile products and technology teams.
+  bio1: Chandra Polepeddi is a mobile applications lead architect and developer. 
+  bio2: He is experienced in leading, architecting and building customer facing quality applications in iOS, iPadOS, watchOS, macOS for Payments, Financial, Healthcare and Telecom R&D sectors.
   twitter: arcrandom # twitter username
   avatar: /assets/img/avatar.jpg # change with your own avatar
 

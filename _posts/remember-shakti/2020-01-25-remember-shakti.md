@@ -25,10 +25,6 @@ In my Bangalore days, I learnt guitar a little. Then, I happen to listen John Mc
 
 Just see :) “Vikku” Vinayakram is on Ghatam. I just bought it. I still have this CD in my possession. You can buy this on iTunes [here](https://itunes.apple.com/us/album/remember-shakti/1529926). Each and every track on this album is a blessing. I spent weeks listening to only these tracks and developing my projects. Just get onto YouTube and and listen some. I hope you will be able to find the unexplainable feeling and experience that I had.  
 
-Each and every track on this album is a blessing. I spent weeks listening to only these tracks and developing my projects. Just get onto YouTube and and listen some. I hope you will be able to find the unexplainable feeling and experience that I had.  
-
-And, John McLaughin plays [Raga Rock](https://en.wikipedia.org/wiki/Raga_rock) (?), my favorite Carnatic Fusion genre. And… connecting the dots, first time I listened Prasanna playing Carnatic on Guitar. And then, I happen to listen McLaughlin.  
-
-Thank you Mahavishnu Orchestra. This album had definitely filled my life with beautiful moments. Many times it moulded me and inspired me. This music band and album are like a time machine for me. Whenever I play any track from this album, I quickly go back to my Bangalore days, my personal projects in those days, those late night code commits, celebrate the late night with BTM Layout bicycle-chai wala, and subsequent failure of those projects :). That was a chapter in my life. 
+This album had definitely filled my life with beautiful moments. This music band and album are like a time machine for me. Whenever I play any track from this album, I quickly go back in time to my Bangalore days, my personal projects in those days, those late night code commits celebrations, late night walks to BTM Layout bicycle-chai-wala and eating onion samosas, and subsequent failure of those projects :). That was a chapter in my life. 
 
 You should listen to this album. Give it a try.

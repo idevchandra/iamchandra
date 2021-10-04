@@ -2,7 +2,7 @@
 title: My mom, dad and my homework
 date: 2018-04-17 11:58:47 +00:00
 modified: 2018-04-17 11:58:47 +00:00
-tags: [life]
+tags: [dad, life]
 description: How my dad helped me in finishing my homework while mom was worried :)
 image: "/assets/img/ogp.png"
 ---
