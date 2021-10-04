@@ -4,6 +4,7 @@ permalink: /articles
 layout: page
 comments: false
 ---
+*   [Jony Ive on What He Misses Most About Steve Jobs](./assets/jonyive_on_stevejobs_10th_anniversary.pdf), on WSJ. Oct 4, 2021.
 *   [Steve Jobs’s last gambit: Apple’s M1 Chip](https://om.co/2020/11/17/why-m1-chip-by-apple-matters/), by Om Malik. Nov 17, 2020.
 *   [Inside Mark Zuckerberg's Lost Notebook](./assets/notebookofmarkz.pdf), from Wired. Feb 12, 2020.
 *   [Satya Nadella's 3-rule method for running effective meetings](https://www.businessinsider.com/microsoft-ceo-satya-nadellas-3-rule-method-for-running-meetings-2019-8) Oct 22, 2019.
