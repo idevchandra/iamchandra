@@ -10,7 +10,6 @@ image: "/assets/img/ogp.png"
 
 <figure>
 <img src="/assets/images/multgits.png" alt="">
-<figcaption>Multile Git accounts on macOS (source: iamchandra.com)</figcaption>
 </figure>
 
 Cloning and pushing code would often fail when we have multiple `git` accounts on a single machine. A little setup and organization would help here.
@@ -133,7 +132,7 @@ $ git config --global user.email "emailid@mail.net"
 
 Referring the `config` file, you can use this command to use a particular git account.
 
-`$ git clone git@github.com--{GIT_ACCOUNT_NAME_1}:{-{GIT_ACCOUNT_NAME_1}}/{REPO_NAME}.git`
+`$ git clone git@github.com-{GIT_ACCOUNT_NAME_1}:{-{GIT_ACCOUNT_NAME_1}}/{REPO_NAME}.git`
 
 An example would be:
 
