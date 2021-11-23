@@ -1,6 +1,6 @@
 ---
 
-title: AirTag and no hole
+title: AirTag, having no hole, accessories and Tile acquisition!
 date: 2021-11-22 9:00:00 +00:00
 modified: 2021-11-22 9:00:00 +00:00
 tags: [tech]
@@ -12,6 +12,8 @@ image: "/assets/img/ogp.png"
 <img src="/assets/images/tagtail.png" alt="">
 <figcaption>Apple AirTag and Tile Pro tracker. Source apple.com and thetileapp.com.</figcaption>
 </figure>
+
+Well, I chukled while writing that title. :)
 
 On May 3, 2021, in an [interview with Emily Chang](https://twitter.com/BloombergTV/status/1389369250884866048), Tile CEO CJ Prober told that AirTag put their trackers at a disadvantage and he called Apple a "runaway monopoly train". Today, Nov 22, 2021, family locator service company Life360 is acquiring Tile for $205 million. 
 
