@@ -5,7 +5,7 @@ date: 2021-11-22 9:00:00 +00:00
 modified: 2021-11-22 9:00:00 +00:00
 tags: [tech]
 description: The only complaint with AirTag is not having a hole.
-image: "/assets/img/ogp.png"
+image: "/assets/images/airtag_accessories.png"
 ---
 
 <figure>

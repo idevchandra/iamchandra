@@ -4,7 +4,7 @@ date: 2020-12-10 11:58:47 +00:00
 modified: 2020-02-02 16:49:47 +00:00
 tags: [tech]
 description: Setup a git server in your home and access on other computers in your home network
-image: "/assets/img/ogp.png"
+image: "/assets/images/ubgl.png"
 ---
 
 <figure>

@@ -5,7 +5,7 @@ date: 2021-03-11 9:00:00 +00:00
 modified: 021-03-11 9:00:00 +00:00
 tags: [tech]
 description: Setup Multiple Git Accounts on macOS
-image: "/assets/img/ogp.png"
+image: "/assets/images/multgits.png"
 ---
 
 <figure>

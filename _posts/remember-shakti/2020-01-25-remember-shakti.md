@@ -4,7 +4,7 @@ date: 2019-03-27 11:58:47 +00:00
 modified: 2020-02-02 16:49:47 +00:00
 tags: [music, life]
 description: John McLaughlin's Remember Shakti, my Bangalore days, projects and ideas.
-image: "/assets/img/ogp.png"
+image: "/assets/images/musicaltrinity.png"
 ---
 
 <figure>
