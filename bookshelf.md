@@ -4,7 +4,8 @@ permalink: /bookshelf
 layout: page
 comments: false
 ---
-
+*   [Build](https://www.goodreads.com/book/show/59696349-build) by Tony Fadell
+*   [Zero to One](https://www.goodreads.com/book/show/18050143-zero-to-one) by Peter Thiel
 *   [What You Do Is Who You Are](https://a16z.com/book/whatyoudo/) by Ben Horowitz  
 *   [The Secret](https://www.amazon.com/dp/1582701709/ref=cm_sw_r_tw_dp_U_x_vhDyEbM11P4QC) by Rhonda Byrne  
 *   [The CEO Next Door](https://www.amazon.com/dp/1101906499/ref=cm_sw_r_tw_dp_U_x_DJkyEbFWRY3T0) by Elena L. Botelho  
