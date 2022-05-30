@@ -4,7 +4,7 @@ date: 2020-10-10 11:58:47 +00:00
 modified: 2020-02-02 16:49:47 +00:00
 tags: [life, philosophy]
 description: Ātma bōdha by Ādi Śhankarācharya, path to Self Knowledge.
-image: "/assets/img/ogp.png"
+image: "/assets/images/ab_as.png"
 ---
 
 <figure>
