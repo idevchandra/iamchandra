@@ -1,12 +1,12 @@
-
 // Fonts preferences
 $sans-family: Roboto, sans-serif;
-$mono-family: Consolas, monospace;
+$mono-family: Courier, monospace;
 $base-font-size: 16px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
 $footnotes-font-size: 12px;
+
 // Font weight
 // $light-weight: 300; // uncomment if necessary
 $normal-weight: 400;
@@ -18,9 +18,12 @@ $bold-weight: 700;
 // $text-link-blue: #003fff;
 // $text-link-blue-active: #0036c7;
 
+// -------------------------------------- LIGHT THEME COLORS
 $text-base-color: #434648;
 $text-link-blue: #ff5277;
 $text-link-blue-active: #ff2957;
+// $text-link-blue: #ff5277;
+// $text-link-blue-active: #ff2957;
 
 $black: #0d122b;
 $light: #ececec;
@@ -28,12 +31,12 @@ $smoke: #d2c7c7;
 $gray: #6b7886;
 $white: #fff;
 
-// Dark Colors
+// -------------------------------------- DARK THEME COLORS
 $dark-text-base-color: #c7bebe;
 $dark-text-link-blue: #ff5277;
 $dark-text-link-blue-active: #ff2957;
- 
-$dark-black: #131418;
+
+$dark-black: #131418; // Dark Mode: Page Background Color
 $dark-white: #eaeaea;
 $dark-light: #1b1d25;
 $dark-smoke: #4a4d56;
@@ -65,4 +68,4 @@ $on-widescreen: 1152px;
 
 // Import sass files
 @import "klise/fonts", "klise/base", "klise/layout", "klise/post",
-  "klise/miscellaneous", "klise/syntax", "klise/dark";
+"klise/miscellaneous", "klise/syntax", "klise/dark";
