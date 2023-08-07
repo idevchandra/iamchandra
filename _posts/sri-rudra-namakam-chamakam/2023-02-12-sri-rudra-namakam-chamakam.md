@@ -9,7 +9,12 @@ image: "/assets/images/nataraja.png"
 
 ```
 This is a work in progress.
-- Telugu transliteration is failing. Trying to correct it. 
+
+KNOWN ISSUES:
+- Telugu transliteration is failing on some browsers.
+- Rendering the diacritics is failing for Telugu and Kannada.
+
+PENDING:
 - I will open my GitHub link so that others can contribute to the meaning.
 - For the anuvākās, I will add romanized text transliteration, kannada and tamil when I find authentic sources. 
 ```
