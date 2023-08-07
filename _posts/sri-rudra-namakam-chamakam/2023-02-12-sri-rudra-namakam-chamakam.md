@@ -29,7 +29,7 @@ I am compiling/editing this document as and when my śrī rudra praśnaḥ learn
 
 ## <a name="Introduction"></a>Introduction
 
-Sri Rudra Prasna also known as Rudradhyaya, Satarudriya, Rudra Namakam & Chamakam and Rudram. Sri Rudram is a part of Krishna Yajurveda's Taittiriya Samhita. Rudra Prasna finds a place in Shukla Yajurveda also. 
+Sri Rudra Prasna is also known as Rudradhyaya, Satarudriya, Rudra Namakam & Chamakam and Rudram. Sri Rudram is a part of Krishna Yajurveda's Taittiriya Samhita. Rudra Prasna finds a place in Shukla Yajurveda also. 
 
 Three commentators- Sayana, Bhattabhaskara and Abhinavasankara- have written commentaries for Sri Rudram. This present explanation has been written in accordance with these three commentaries.
 
