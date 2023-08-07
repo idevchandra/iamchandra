@@ -15,7 +15,7 @@ This is a work in progress.
 ```
 
 <figure>
-<img src="/assets/images/nataraja.png" alt="">
+<img src="/assets/images/Nataraja.png" alt="">
 </figure>
 
 I am compiling/editing this document as and when my śrī rudra praśnaḥ learning progresses. I was looking for word-to-word translations to understand the meaning of śrī rudra praśnaḥ. Several expositions exists on internet, provided by great learners/teachers. Among very few word-to-word translations [Sri Kanchi Kamakoti Peetham](https://www.kamakoti.org/kamakoti/stotra/Sri%20Rudram%20Anuvakam1.html) link is verbose. This collection of posts are based on their translation.
