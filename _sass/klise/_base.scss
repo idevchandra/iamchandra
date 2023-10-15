@@ -9,7 +9,7 @@
 
 .notransition {
   -webkit-transition: none;
-  -moz-transition: none; 
+  -moz-transition: none;
   -ms-transition: none;
   -o-transition: none;
   transition: none;
@@ -123,7 +123,7 @@ figure {
 }
 
 // Image inside Figure tag
-figure > img {
+figure>img {
   display: block;
   position: relative;
 }
@@ -137,10 +137,12 @@ figcaption {
 // List
 ul {
   list-style: none;
+
   li {
     display: list-item;
     text-align: -webkit-match-parent;
   }
+
   li::before {
     content: "\FE63";
     display: inline-block;
@@ -155,9 +157,11 @@ ul {
 ol {
   list-style: none;
   counter-reset: li;
+
   li {
     position: relative;
     counter-increment: li;
+
     &::before {
       content: counter(li);
       display: inline-block;
@@ -186,8 +190,8 @@ li {
     color: $black;
   }
 
-  > ul,
-  > ol {
+  >ul,
+  >ol {
     margin-bottom: 2px;
     margin-top: 0;
   }
@@ -202,8 +206,9 @@ h5,
 h6 {
   color: $black;
   font-weight: $bold-weight;
-  & + ul,
-  & + ol {
+
+  &+ul,
+  &+ol {
     margin-top: 10px;
   }
 
@@ -213,12 +218,12 @@ h6 {
 }
 
 // Headings with link
-h1 > a,
-h2 > a,
-h3 > a,
-h4 > a,
-h5 > a,
-h6 > a {
+h1>a,
+h2>a,
+h3>a,
+h4>a,
+h5>a,
+h6>a {
   text-decoration: none;
   border: none;
 
@@ -256,15 +261,16 @@ em {
 // Blockquotes
 blockquote {
   color: $gray;
-  font-style: italic;
-  text-align: center;
+  font-style: normal;
+  text-align: left;
   opacity: 0.9;
-  border-top: 1px solid $light;
-  border-bottom: 1px solid $light;
+  border-top: 0px solid $light;
+  border-left: 5px solid $light;
+  border-bottom: 0px solid $light;
   padding: 10px;
   margin-left: 10px;
   margin-right: 10px;
-  font-size: 1em;
+  font-size: 0.9em;
 
   > :last-child {
     margin-bottom: 0;

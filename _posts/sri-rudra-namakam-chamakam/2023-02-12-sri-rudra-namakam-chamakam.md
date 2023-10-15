@@ -7,32 +7,56 @@ description:
 image: "/assets/images/nataraja.png"
 ---
 
-```
-This is a work in progress.
-
-KNOWN ISSUES:
-- Telugu transliteration is failing on some browsers.
-- Rendering the diacritics is failing for Telugu and Kannada.
-
-PENDING:
-- I will open my GitHub link so that others can contribute to the meaning.
-- For the anuvākās, I will add romanized text transliteration, kannada and tamil when I find authentic sources. 
-```
-
 <figure>
 <img src="/assets/images/Nataraja.png" alt="">
 </figure>
 
-I am compiling/editing this document as and when my śrī rudra praśnaḥ learning progresses. I was looking for word-to-word translations to understand the meaning of śrī rudra praśnaḥ. Several expositions exists on internet, provided by great learners/teachers. Among very few word-to-word translations [Sri Kanchi Kamakoti Peetham](https://www.kamakoti.org/kamakoti/stotra/Sri%20Rudram%20Anuvakam1.html) link is verbose. This collection of posts are based on their translation.
+
+> This is a work in progress.
+> 
+> KNOWN ISSUES:
+> - Telugu transliteration is failing on some browsers.
+> - Rendering the diacritics is failing for Telugu and Kannada.
+> 
+> PENDING:
+> - I will open my GitHub link so that others can contribute to the meaning.
+> - For the anuvākās, I will add romanized text transliteration, kannada and tamil when I find authentic sources. 
+
+
+# Change History
+
+| Date    | Change | Comments |
+| -------- | ------- | ---|
+| Nov 26, 2022 | Namakam, Anuvaakam - 1 | Introduction, diacritics, Swaram, Learning |
+| Jan 28, 2023 | Namakam, Anuvaakam - 2 | Plate pending |
+| Mar 04, 2023 | Namakam, Anuvaakam - 3 | <center>--- do ---</center> |
+| Mar 25, 2023 | Namakam, Anuvaakam - 4 | Yet to compile the meaning and format |
+| Apr 22, 2023 | Namakam, Anuvaakam - 5 | <center>--- do ---</center> |
+| May 06, 2023 | Namakam, Anuvaakam - 6 | <center>--- do ---</center> |
+| May 13, 2023 | Namakam, Anuvaakam - 7 | <center>--- do ---</center> |
+| May 20, 2023 | Namakam, Anuvaakam - 8 | <center>--- do ---</center> |
+| Jun 03, 2023 | Namakam, Anuvaakam - 9 | <center>--- do ---</center> |
+| Jul 29, 2023 | Namakam, Anuvaakam - 10 | <center>--- do ---</center> |
+| Sep 02, 2023 | Namakam, Anuvaakam - 11 | <center>--- do ---</center> |
+| Sep 16, 2023 | Tryambakam Yajamahe | <center>--- do ---</center> |
+| Sep 30, 2023 | Chamakam, Anuvaakam - 1 | Introduction, compiled meaning |
+| Oct 07, 2023 | Chamakam, Anuvaakam - 2 | Done |
+| Oct 14, 2023 | Chamakam, Anuvaakam - 3 | Done |
 
 # Contents
 
-- [Introduction](#Introduction)
-- [Anuvaakam - 1](#Anuvaakam1)
-- [Anuvaakam - 2](#Anuvaakam2)
+- [Prologue](#Introduction)
+- [Namakam](#Namakam)
+    - [Anuvaakam - 1](#Anuvaakam1)
+    - [Anuvaakam - 2](#Anuvaakam2)
+- [Chamakam](#Chamakam)
+    - [Anuvaakam - 1](#Anuvaakam1)
+    - [Anuvaakam - 2](#Anuvaakam2)    
 - [Sources](#Sources)
 
-## <a name="Introduction"></a>Introduction
+# <a name="Introduction"></a>Prologue
+
+I am compiling/editing this document as and when my śrī rudra praśnaḥ learning progresses. I was looking for word-to-word translations to understand the meaning of śrī rudra praśnaḥ. Several expositions exists on internet, provided by great learners/teachers. Among very few word-to-word translations [Sri Kanchi Kamakoti Peetham](https://www.kamakoti.org/kamakoti/stotra/Sri%20Rudram%20Anuvakam1.html) link is verbose. This collection of posts are based on their translation.
 
 Sri Rudra Prasna is also known as Rudradhyaya, Satarudriya, Rudra Namakam & Chamakam and Rudram. Sri Rudram is a part of Krishna Yajurveda's Taittiriya Samhita. Rudra Prasna finds a place in Shukla Yajurveda also. 
 
@@ -43,6 +67,8 @@ There are a total of 11 Anuvakams (sections) in Sri Rudram.
 - In the first Anuvakam, the angry Sri Rudra is pacified. 	
 - From the second to the ninth Anuvakams, Sri Rudra is eulogised in many ways and obeisance paid to him. 
 - In the last two Anuvakams, prayers are offered to Sri Rudra and Rudraganas.
+
+# <a name="Namakam"></a>Namakam
 
 ## <a name="Anuvaakam1"></a>Anuvaakam - 1
 
@@ -586,3 +612,546 @@ Dhyanam:
 “One should meditate constantly on Parameswara, whose twin feet are reddened by the pollen of the flowers from the garlands worn by groups of Devas on their heads, who is the father of all the worlds, holding the bow called ‘Pinaka’ in his hand and accompanied by Parvati.”
 
 The fruit for these three mantras is said to be destruction of enemies.
+
+## <a name="Chamakam"></a>Chamakam
+
+The Chamakam enumerates the various things one would want in life and requests Rudra to grant them to the devotee. It acknowledges both material and spiritual desires and requests the deity for both. Some verses invoke other deities such as Agni and Vishnu and request them to join in the devotee's prayers to Rudra.
+
+
+```
+अग्नाविष्णू सजोषसेमा वर्धन्तु वां गिरः ।
+द्युम्नैर्वाजेभिरागतम् ॥
+```
+Kalpam:  After chanting the mantra `अग्नाविष्णू` and performing homam four times with ghee, one should then perform homam in continuous flow, chanting the mantras from `वाजश्चमे` upto the eleventh Anuvakam at the same time. Here from `वाजश्चमे` upto the eleventh Anuvakam it is a single mantra. The division into eleven Anuvakams has been done for the purpose of using each Anuvakam as one mantra in karmas like Parayanam, other than Homam. This `अग्नाविष्णू` mantra alone must be chanted for Chaturgrihita Homam.
+
+
+### Meaning:
+
+| Term/Word    | Meaning | Notes |
+| -------- | ------- | ---|
+| हे अग्नाविष्णू | O Devas Agni and Vishnu!  |
+| सजोषसा | (Both of you) be kind in the same manner|
+| वां | Spoken about you|
+| इमा गिरः | these words of praise|
+| वर्धन्तु | may grow|
+| युम्नैः | With materials (like gold, silver etc.)|
+| वाजेभिः | and food items|
+| आगतम् | please come.|
+
+
+### Explanation:
+
+While calling upon two Devas, both of them should have the same extent of kindness. If there is difference they will not come forward to bestow fruits together. Hence it is prayed first that both should be kind to us to the same extent. This is followed by prayer that we should also praise you very well and you should come and give us materials and foods.
+
+
+## प्रथमोऽनुवाकः / Anuvākam - 1
+
+In the First Anuvākam, prayer is made to keep fit in the human being his vitalities internal and sensory organs and mind power, hale and healthy, a long and peaceful happy life. These powers are needed for successful performance of several types of tasks in everyday life. The prayer here is "that all these powers be perfectly reveal in us in complete harmony with each other".
+
+<figure>
+<img src="/assets/images/chamakam/01-Chamakam-Anuvaakam-small.png" alt="">
+</figure>
+
+### Meaning:
+
+| Term/Word    | Meaning | Notes |
+| -------- | ------- | ---|
+| मे  | To me| |
+| वाजः | food| |
+| कल्पताम् | may be available | The word `कल्पतां` in the tenth Anuvakam must be attached to all the words upto that point. That word will give the meaning appropriate to the place. The word `च` indicates the togetherness i.e. food and all the other materials mentioned hereafter should all be available.|
+| प्रसवः | Permission (for making food available, eating it etc.).  | `कल्पतां` : Wherever I go, I should get this kind of permission.|
+| प्रयतिः | purity |
+| प्रसितिः | Appetite. on seeing food, staying there with desire to eat|
+| धीतिः | accepting food |
+| क्रतुः | the yagna, the cause of food|
+| स्वरः | the intonation in chanting mantra like ‘Udaatta’|
+| श्लोकः | praise|
+| श्रावः | capacity to speak such that many people enjoy listening|
+| श्रुतिः | capacity to enjoy listening|
+| ज्योतिः | light| for mental awakening and perfection |
+| सुवः | Swarga| to attain divine abode of Gods |
+| प्राणः | Pranavayu| For regular function of main breath |
+| अपानः | Apanavayu |
+| व्यानः | Vyanavayu | Air going from outside into body is Prana, air emerging out of the body is Apana; air present in joints of limbs is Vyana.|
+| असुः | air (in general)| for vital function of these airs |
+| चित्तं | knowledge in the mind |
+| अधीतं | matters appearing in that knowledge|
+| वाक् | the power of speech | |
+|मनः |a clear and sound mind|
+|चक्षुः|eye| perception |
+|श्रोत्रं| ear|
+|दक्षः|capacity of Gnanendriyas| fine functioning of all sense of organs |
+|बलं|capacity of Karmendriyas|
+|ओजः|virulence| (?)The cause of this strength (eigth dhatu- element)|
+|सहः|the power to attack and put down the enemies |
+|आयुः| prolonged lifespan | |
+|जरा|respectable and cenerable life till attaining old age|
+|आत्मा| a healthy and necessary ego|
+|तनुः| wellbuilt, healthy and handsome body|
+| शर्म | comfort and happiness|
+| वर्म | ability to armor and to protect the body etc.|
+| अङ्गानि | healthy, strong and full limbs |
+| अस्थानि| bones in required places|
+| परूँषि | joints in hands etc.|
+| शरीराणि |other parts of the body.|
+
+It is prayed that all the above mentioned should be properly available to me.
+
+## द्वितीयोऽनुवाकः / Anuvākam - 2
+
+In the Second Anuvaaka, prominence and leadership, common sense, great consciousness, intellectual acumen, capability to face bad periods, Spiritual elevation, worldly splendor and enjoyments are prayed for. In other words, goals that are to be attained with the powers requested in the earlier anuvaaka.
+
+<figure>
+<img src="/assets/images/chamakam/02-Chamakam-Anuvaakam-small.png" alt="">
+</figure>
+
+| Term/Word    | Meaning | Notes |
+| -------- | ------- | ---|
+| ज्यैष्ट्यं | Elderliness as senior and eminent among people | |
+| आधिपत्यं | leadership | |
+| मन्युः | [postive-mannered and controlled] mental-anger, rage, fury | contextually translated to passion, zeal, high spirit |
+| भामः | anger expressing in external signs | As anger is also required on certain occasions it is prayed that capacity for anger on right occasions be provided. |
+| अमः | nature that cannot be deciphered by enemies | with in-depth mind and sterling character (which is not judged by enemies)|
+| अम्भः | cold and drinkable water | |
+| जेमा | capacity to win (over enemies) | Victorious, glory |
+| महिमा | possessing wealth etc. obtained through success | resultant fame and wealth due to my victories |
+| वरिमा | being honoured | |
+| प्रथिमा | growth in properties like house, land etc. | |
+| वर्ष्मा | Healthy and well built progenies(son, grandson etc.) | |
+| द्राघुया | growth of lineage of son grandson etc. | the unbreakable continuity of sumptuous grandeur, (ever lasting & continuity in my generation) |
+| वृद्धं | abundant wealth and food | "Grown" in abundance, wealth in multiplefold |
+| वृद्धिः | honour through learning etc. Progress in education and knowledge |Excellence accrued due to knowledge and personal character |
+| सत्यं | Practicing and speaking only the truth | |
+| श्रद्धा | faith in existence of Vedas, SRti and SmRti, The universe and after-worlds | Faith, Trust, Belief (contextually in self and in self existence and the universe) |
+| जगत् | Natural and Biological world filled with movable cattle etc. | `जगत्` translates to literally moving body or which is alive. |
+| धनं | Wealth in the form of Gold, Silver and other precious exchangeable currencies | |
+| वशः | Attracting others with postive virtues, bringing others under control | |
+| त्विषिः | Radiant and shiny body | radiance, splendorous, brilliancy |
+| क्रीडा | sports, play and athletic abilities | |
+| मोदः | delight on account of the athletic nature | being happy and delightful |
+| जातं | derived from our ancestry and descendency from forefathers | new born babies |
+| जनिष्यमाणं | children that are yet to be born so that acenstry will live on | |
+| सूक्तं | group of Riks | `su+uktam` are hymns, recitation of Riks  |
+| सुकृतं | merit of chanting those Riks | the resultant benefits by the performance of sacred rituals and pious actions |
+| वित्तं | wealth already accrued and earned | Worldly assets/things you earned |
+| वेद्यं | wealth to be earned in future | |
+| भूतं | Wealth that was already with me from the past | The worldly assets you already had since past |
+| भविष्यत् | Wealth to be acquired in future | The worldly assets those you are going to attain |
+| सुगं | Places to be certainly visited | village full of relatives etc. |
+| सुपथं | Auspicious path free from thieves etc. | The path may be filled with goodness/prosperity/auspiciousness |
+| ऋद्धं | Accrued/attained benefits from Yajnas and Vedic karmas performed so far | |
+| ऋद्धिः | Going-to-be-acquired-or-attained fruits of Vedic karmas or jajnas that are to be performed in future | `ऋद्धि` translates to accomplishments, success, abundance, made-to-prosper |
+| क्लृप्तं | to make the life journey pleasant and purposeful with the wealth already earned | |
+| क्लृप्तिः |  to make use of them by me in a most judicious and befitting manner, smartly | |
+| मतिः | the possession of clear consciousness and good sense in understanding men and matters in this World | |
+| सुमतिः | the dexterity / political knowledge to effectively manage the most difficult situations successfully| |
+
+## तृतीयोऽनुवाकः / Anuvākam - 3
+
+The Third Anuvaaka develops innate urge of God and meditative flights and spiritual ecstasy, service to Divinity and humanity and a condition where the world wants him and he wants the world for upliftment. In other words, the goals such as teaching, discovery, immortality, eagerness for knowledge and truth, quest for immortality, understanding the rhythms in life, understanding the available paths in life, freedom from diseases, ability to sleep well and power associated with mind and praana and choice of right path in life to be attained primarily by the use of mental powers. 
+
+<figure>
+<img src="/assets/images/chamakam/03-Chamakam-Anuvaakam-small.png" alt="">
+</figure>
+
+| Term/Word    | Meaning | Notes |
+| -------- | ------- | ---|
+| शं | comfort in this world  |  |
+| मयः | comfort in the next world  |  |
+| प्रियं | object of love  |  |
+|अनुकामः |  object much loved.   | Compared to `Priyam`, contextually `Anukama:` should be taken to indicate greater love. Both refer to love in this world only.  |
+| कामः |  Pleasure in the next world Swarga etc.  |  |
+| सौमनसः | relatives who provide peace of mind  |  |
+| भद्रं |  auspicious, beautiful object of this world  |  |
+| श्रेयः | that which leads to good in next world  |  |
+| वस्यः | house for living etc.  |  |
+| यशः |  fame  |  |
+| भगः |  good luck  |  Fortune and good luck |
+| द्रविणं | huge wealth  |  |
+| यन्ता |  Acharya etc. who give instructions  | proper guidance and control from elders and
+teachers |
+|धर्ता | father etc. who protect  |  |
+|क्षेमः | power to preserve existing wealth  |  |
+| धृतिः | not getting shaken even during time of danger  |  |
+| विश्वं |  being favourable to all  |  |
+| महः | adoration (done by us to superiors  |  |
+|or  |  |
+|done by many to us)  |  |
+| संवित् | knowledge of Vedas and Sastras  |  |
+| ज्ञात्रं |  capacity to remind at right time  |  |
+|सूः | capacity to engage sons etc. in activities  |  |
+| प्रसूः | capacity to order servants  |  |
+| सीरं | possession of plough  |  |
+|bull etc. required for farming  |  |
+| लयः | undoing of damages to them  |  |
+| ऋतं |  karmas like yagna  |  |
+| अमृतं | their fruit  |  |
+|अयक्ष्मं |  freedom from incurable serious disease  |  |
+|अनामयं | freedom from ordinary diseases like fever etc.  |  |
+| जीवातुः | cause of life (here medicine to cure disease)  |  |
+|दीर्घायुत्वं | long life (freedom from untimely death)  |  |
+|अनमित्रं | freedom from enemy  |  |
+| अभयं | freedom from fear  |  |
+| सुर्गं |  conduct acceptable to all  |  |
+|शयनं |  good bed  |  |
+| सूषा | auspicious dawn with bath  |  |
+|Sandhyavandanam etc.  |  |
+| सुदिनं | auspicious day with yagna  |  |
+| danam  |  |
+|Vedic study etc.  |  |
+
+## चतुर्थोऽनुवाकः / Anuvākam  4
+
+ऊर्क्=  food material
+   सूनृता=    good word
+   पयः=   milk
+   रसः=  taste in it
+   घृतं=  ghee
+   मधु= honey
+ सग्धिः=   eating along with relatives
+   सपीतिः=  drinking together
+  कृषिः=   agriculture
+  वृष्टिः=  rain
+  जैत्रं=  successful
+ i.e. good=yielding land
+  औद्भिद्यं=  growth of plant
+ creeper etc.
+  रयिः=  gold
+  रायः=  gem etc.
+  पुष्टं=   abundance of gem
+ pearl etc.
+  पुष्टिः=  bodily strength
+
+
+विभु
+ प्रभु
+ बहु
+ भूयः
+ पूर्णं
+ पूर्णतरं
+ अक्षितिः= these seven words indicate progressive increase in growth of foodgrains
+ the second indicating a higher growth than the first and so on; the seventh indicating the highest growth.
+
+कूयवाः=   minor foodgrains
+  अन्नं=  reputed food
+  अक्षुत्=  relief from hunger
+   व्रीहयः=  paddy
+  यवाः= barley
+   माषाः=  black gram
+  तिलाः=  gingelly
+  मुद्गाः= kidney=bean
+ खल्वाः=  bean (another type)
+ गोधूमाः=  wheat
+  मसुराः=  lentil (dal)
+   प्रियङ्गवः=  long pepper
+  अणवः=  thin paddy
+   श्यामाकाः=  corn
+ नीवाराः=  wild rice.
+
+ 
+
+ 
+
+ 
+
+पंचमोऽनुवाकः
+
+ANUVAKAM  5
+
+ 
+
+अश्माः=  Stone
+   मृत्तिकाः= soil
+   गिरयः=   mountains worthy of worship
+ Kulachalas
+   पर्वताः=   ordinary  mountains
+   सिकताः=    sand
+   वनस्पतयः=   trees growing vegetables/ fruits without flower
+  हिरण्यं= gold
+   अमः=  iron
+   सीसं=  lead
+   त्रपुः=  tin
+    श्यामं=  rock salt
+  लोहं=   bronze
+ copper etc.
+  अग्निः=  fire
+  आपः=    water
+   वीरुधः=  plants
+   ओषधयः=  herbs
+   कृष्टपच्यं=  grown by planting and farming
+  अकृष्टपच्यं=  grown on their own without farming
+   ग्राम्याः पशवः=   animals growing in villages
+   आरण्याश्च=    animals growing in forests
+  यज्ञेन=    through the yagna I perform
+   कल्पन्ताम्=  may become capable of doing their acts.  वित्तं=  Wealth earned
+   वित्तिः=  profit yet to be obtained
+   भूतं=  wealthy son etc.
+  भूतिः=  wealth etc. owned by me
+   वसु=  cow etc. required for living
+  वसतिः=  house for living etc.
+ कर्म=   karmas like Agnihotram etc.
+   शक्तिः=  capacity to perform them
+   अर्थः=  benefit from them
+  एमः=    pleasure to be attained
+  इतिः=  means of attaining it
+   गतिः=  attaining desired object.
+
+ 
+
+ 
+
+ 
+
+षष्टोऽनुवाकः
+
+ANUVAKAM  6
+
+ 
+
+In this Anuvakam
+ it is prayed that Devatas= Agni
+ Soma
+ Savita
+ Saraswati
+ Poosha
+ Brihaspati
+ Mitra
+ Varuna
+ Tvashta
+ Dhata
+ Vishnu
+ Asvinidevas
+ Maruts
+ Visvedevas
+ Prithvi (Earth) Devata
+ Antariksha (Intermediate region) Devata
+ Dyuloka (Swarga) Devata
+ Devatas of Directions
+ Urdhvadik (Upward direction) Devata= all should be favourable to me. As indra enjoys pleasures equal to each of these Devatas
+ Indra is cited with each Devata= ‘अग्निश्चम इन्द्रश्चमे
+ सोमश्चम इन्द्रश्चमे’ etc.
+
+ 
+
+मूर्धा= Urdhvadik (Upward Direction). As this direction is considered more important than all other directions
+ it is mentioned separately.
+
+ 
+
+ 
+
+ 
+
+सप्तमोऽनुवाकः
+
+ANUVAKAM  7
+
+ 
+
+अंशुः
+ अदाभ्यं etc. mentioned in this Anuvakam are specific vessels
+ generally  called ‘Graha’
+ used in Somayaga. ‘Rasmi’ is not ‘Graha’; but as it is used for picking up the graha ‘Adaabhya’
+ it is mentioned separately. The word अधिपतिः indicates दधिग्रह. As that graha is greater than other grahas as mentioned in Sruti
+ ज्येष्ठो वा एष ग्रहाणां
+ the word अधिपतिः refers to दधिग्रह.
+
+ 
+
+The graha ध्रुवं is indicated by the term वैश्वानर on occasion. Here there are two वैश्वदेव words. The first is in ‘Praatassavanam’; the second pertains to ‘Tritiyasavanam’.  The grahas सारस्वतः and पौष्णः are used in ‘Vikritiyaga’.
+
+ 
+
+The prayer is that all the above grahas should be favourable to me.
+
+ 
+
+ 
+
+ 
+
+अष्टमोऽनुवाकः
+
+ANUVAKAM  8
+
+ 
+
+इध्मः
+ बर्हिः etc. mentioned in this Anuvakam are all articles used in yaga. They are well known in Yagnaprakaranam. The prayer is that all be favourable to me.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+नवमोऽनुवाकः
+
+ANUVAKAM  9
+
+ 
+
+ 
+
+अग्निः=  Agni used in ‘Sayanam’ yaga
+  धर्मः=  karma called ‘Pravargyam’
+  अर्कः=   Yaga indicated by the passage इन्द्रायार्कवते पुरोडशं
+     सूर्यः=   Yaga indicated by the passage सौर्यं चरुं
+    प्राणः=  Homam indicated by  प्राणाय स्वाहा
+    अङ्गुलयः= finger=like limbs of Virat Purusha
+ viz. Devatas पृथिवी
+ अदितिः
+ दितिः
+ द्यौः
+ शक्वरीः
+    दिशः=  directions.  ‘चकार’ (cha) indicates ‘Vidiks’ (intermediate directions).  All these= मे यज्ञेन=  through the yaga I do
+  कल्पन्तां=  may become capable of doing their duties.  ऋक्= Rik mantra
+ साम=  Sama mantra
+  स्तोमः=  Stotra consisting of continuous Sama rendering
+  यजुः=  Yajur mantra
+  दीक्षा=   Diksha
+ samskara for yajamana
+ the performer of yaga
+  तपः=  fast etc. performed for annihilation of sins
+  ऋतुः=   time of yagna
+  व्रतं=  discipline in yagna
+  बृहद्रथन्तरे=  Sama mantras ‘Brihat’ and ‘Rathantara’;  all these  मे यज्ञेन=   through the yagna I do
+   कल्पन्तां=   may become capable of doing their duties.   अहोरात्रयोः वृष्ट्या=  By rain during day and night (may my crops grow in fertile manner).
+
+ 
+
+ 
+
+ 
+
+दशमोऽनुवाकः
+
+ANUVAKAM  10
+
+ 
+
+गर्भाः=  calves in womb
+   वत्साः=  calves less than one year old
+   त्र्यविः=  bull
+ one and a half years old
+   त्र्यवी=  cow
+ one and a half years old
+  दित्यवाट्=   bull
+ two years old
+  दित्यौही=  cow
+ two years old
+  पञ्चाविः=  bull
+ two and a half years old
+  पञ्चावी=   bull
+ two and a half years old
+  त्रिवत्सः=   bull
+ three years old
+   त्रिवत्सा=  cow
+ three years old
+   तुर्यवाट्=    bull
+ three and a half years old
+   तुर्यौही= cow
+ three and a half years old
+   पष्टवाट्=  bull
+ four years old
+  पष्टौही=  cow
+ four years old
+   उक्षा=  bull
+ producing progeny
+  वशा=  barren cow
+   ऋषभः=  bull older than ‘Uksha’
+   वॆहत्=  cow which has lost foetus (due to attack of bull)
+   अनडान्=    bull bearing burden in cart etc.
+  धेनुः=  cow with young calf
+   आयुः=  life
+   प्राणः=  Prana
+  अपानः=  Apana
+  व्यानः=  Vyana
+   चक्षुः=  eye
+  श्रोत्रं=  ear
+   मनः=   mind
+   वाक्=  speech
+  आत्मा=   body
+  यज्ञेन कल्पतां=  through the yagna I do
+  may become capable of doing their duties.  यज्ञः=  The yaga I shall perform later
+  यज्ञेन कल्पतां=  may be fruitful by the yagna I am performing now.
+
+ 
+
+ 
+
+ 
+
+एकादशोऽनुवाकः
+
+ANUVAKAM  11
+
+ 
+
+ 
+
+एका=   One
+   तिस्रः= three
+   पञ्च=  five
+   सप्त=  seven
+   नव=  nine
+   एकादश=  eleven
+    त्रयोदश=  thirteen
+  पञ्चदश=   fifteen
+   सप्तदश=   seventeen
+   नवदश=  nineteen
+  एकविंशतिः= twentyone
+  त्रयोविंशतिः=  twentythree
+   पञ्चविंशतिः=   twentyfive
+  सप्तविंशतिः=   twentyseven
+   नवविंशतिः=  twentynine
+ एकत्रिंशत्=   thirtyone
+  त्रयस्त्रिंशत्=  thirtythree
+  चतस्रः=  four
+  अष्टौ=  eight
+  द्वादश= twelve
+   षोडश= sixteen
+  विंशतिः=  twenty
+  चतुर्विंशतिः=   twentyfour
+   अष्टाविंशतिः= twentyeight
+  द्वात्रिंशत्= thirtytwo
+  षट् त्रिंशत्=    thirtysix
+ चत्वारिंशत्=    forty
+  चतुश्चत्वारिंशत्=  fortyfour
+  अष्टाचत्वारिंशत्=  fortyeight.  The prayer is that all these numbers be favourable to me.
+
+ 
+
+By the odd numbers from 1 to 33
+ Chandas liked by Devas are attained. By the even numbers from 4 to 48
+ Chandas liked by humans are attained. In order to get the love of Devas as well as humans
+ odd numbers and even numbers are both mentioned here.
+
+ 
+
+वाजः=   Food
+   प्रसवः=  its production
+  अपिजः=  its frequent production
+  क्रतुः=  the resolve to enjoy it
+ or
+ yaga
+  सुवः=  Surya
+ the cause of food production
+  मूर्धा=   sky
+   व्यश्नियः= born in sky
+  अन्त्यः=  born at the end
+   भौवनः=    born in the world
+  भुवनः=   world
+   अधिपतिः=  king. (All this should be very favourable tto me).
+
+ 
+
+Alternatively
+ the twelve words from वाजः to अधिपतिः may be taken to mean the names of the twelve months from ‘Chaitra’ to ‘Phalguna’. In that case
+ the idea is that those twelve months may do me good.

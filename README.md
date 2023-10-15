@@ -1,6 +1,9 @@
 # Build this project
+
+```
 bundle install
 bundle exec jekyll serve
+```
 
 # Klisé
 
