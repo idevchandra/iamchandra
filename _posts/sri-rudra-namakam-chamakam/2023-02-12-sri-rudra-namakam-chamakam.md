@@ -27,21 +27,24 @@ image: "/assets/images/nataraja.png"
 
 | Date    | Change | Comments |
 | -------- | ------- | ---|
-| Nov 26, 2022 | Namakam, Anuvaakam - 1 | Introduction, diacritics, Swaram, Learning |
-| Jan 28, 2023 | Namakam, Anuvaakam - 2 | Plate pending |
-| Mar 04, 2023 | Namakam, Anuvaakam - 3 | <center>--- do ---</center> |
-| Mar 25, 2023 | Namakam, Anuvaakam - 4 | Yet to compile the meaning and format |
-| Apr 22, 2023 | Namakam, Anuvaakam - 5 | <center>--- do ---</center> |
-| May 06, 2023 | Namakam, Anuvaakam - 6 | <center>--- do ---</center> |
-| May 13, 2023 | Namakam, Anuvaakam - 7 | <center>--- do ---</center> |
-| May 20, 2023 | Namakam, Anuvaakam - 8 | <center>--- do ---</center> |
-| Jun 03, 2023 | Namakam, Anuvaakam - 9 | <center>--- do ---</center> |
-| Jul 29, 2023 | Namakam, Anuvaakam - 10 | <center>--- do ---</center> |
-| Sep 02, 2023 | Namakam, Anuvaakam - 11 | <center>--- do ---</center> |
+| Nov 26, 2022 | Namakam, Anuvākam - 1 | Introduction, diacritics, Swaram, Learning |
+| Jan 28, 2023 | Namakam, Anuvākam - 2 | Plate pending |
+| Mar 04, 2023 | Namakam, Anuvākam - 3 | <center>--- do ---</center> |
+| Mar 25, 2023 | Namakam, Anuvākam - 4 | Yet to compile the meaning and format |
+| Apr 22, 2023 | Namakam, Anuvākam - 5 | <center>--- do ---</center> |
+| May 06, 2023 | Namakam, Anuvākam - 6 | <center>--- do ---</center> |
+| May 13, 2023 | Namakam, Anuvākam - 7 | <center>--- do ---</center> |
+| May 20, 2023 | Namakam, Anuvākam - 8 | <center>--- do ---</center> |
+| Jun 03, 2023 | Namakam, Anuvākam - 9 | <center>--- do ---</center> |
+| Jul 29, 2023 | Namakam, Anuvākam - 10 | <center>--- do ---</center> |
+| Sep 02, 2023 | Namakam, Anuvākam - 11 | <center>--- do ---</center> |
 | Sep 16, 2023 | Tryambakam Yajamahe | <center>--- do ---</center> |
-| Sep 30, 2023 | Chamakam, Anuvaakam - 1 | Introduction, compiled meaning |
-| Oct 07, 2023 | Chamakam, Anuvaakam - 2 | Done |
-| Oct 14, 2023 | Chamakam, Anuvaakam - 3 | Done |
+| Sep 30, 2023 | Chamakam, Anuvākam - 1 | Introduction, compiled meaning |
+| Oct 07, 2023 | Chamakam, Anuvākam - 2 | Done |
+| Oct 14, 2023 | Chamakam, Anuvākam - 3 | Done |
+| Oct 21, 2023 | Chamakam, Anuvākam - 4 |      |
+| Oct 28, 2023 | Chamakam, Anuvākam - 4 | Done |
+| Oct 14, 2023 | Chamakam, Anuvākam - 5 and 6 | Done |
 
 # Contents
 
@@ -768,139 +771,119 @@ The Third Anuvaaka develops innate urge of God and meditative flights and spirit
 | यशः |  fame  |  |
 | भगः |  good luck  |  Fortune and good luck |
 | द्रविणं | huge wealth  |  |
-| यन्ता |  Acharya etc. who give instructions  | proper guidance and control from elders and
-teachers |
-|धर्ता | father etc. who protect  |  |
-|क्षेमः | power to preserve existing wealth  |  |
+| यन्ता |  Acharya etc. who give instructions  | proper guidance and control from elders and teachers |
+| धर्ता | father etc. who protect  | Contextually and literally `[कर्ता-]धर्ता` means a person who manages the affairs, the active or managing member of a family, one who manages |
+| क्षेमः | power to preserve existing wealth  |  |
 | धृतिः | not getting shaken even during time of danger  |  |
 | विश्वं |  being favourable to all  |  |
-| महः | adoration (done by us to superiors  |  |
-|or  |  |
-|done by many to us)  |  |
+| महः | adoration (done by us to superiors or done by many to us)  | 
 | संवित् | knowledge of Vedas and Sastras  |  |
-| ज्ञात्रं |  capacity to remind at right time  |  |
-|सूः | capacity to engage sons etc. in activities  |  |
+| ज्ञात्रं |  One of the intellectual faculties - capacity to remind at right time  |  |
+| सूः | capacity to engage sons etc. in activities  |  |
 | प्रसूः | capacity to order servants  |  |
-| सीरं | possession of plough  |  |
-|bull etc. required for farming  |  |
-| लयः | undoing of damages to them  |  |
-| ऋतं |  karmas like yagna  |  |
+| सीरं | possession of plough bull etc. required for farming  |  |
+| लयः | Relevant agricultural activities such as planting the seeds |  |
+| ऋतं |  Sacred and pious karmas such as yagna  |  |
 | अमृतं | their fruit  |  |
-|अयक्ष्मं |  freedom from incurable serious disease  |  |
-|अनामयं | freedom from ordinary diseases like fever etc.  |  |
+| अयक्ष्मं |  freedom from incurable serious disease  |  |
+| अनामयं | freedom from ordinary diseases like fever etc.  |  |
 | जीवातुः | cause of life (here medicine to cure disease)  |  |
-|दीर्घायुत्वं | long life (freedom from untimely death)  |  |
-|अनमित्रं | freedom from enemy  |  |
+| दीर्घायुत्वं | long life (freedom from untimely death)  |  |
+| अनमित्रं | freedom from enemy  |  |
 | अभयं | freedom from fear  |  |
 | सुर्गं |  conduct acceptable to all  |  |
-|शयनं |  good bed  |  |
-| सूषा | auspicious dawn with bath  |  |
-|Sandhyavandanam etc.  |  |
-| सुदिनं | auspicious day with yagna  |  |
-| danam  |  |
-|Vedic study etc.  |  |
+| शयनं |  good bed  |  |
+| सूषा | `su + usha`: auspicious dawn etc.  |  |
+| सुदिनं | auspicious day|  |
 
 ## चतुर्थोऽनुवाकः / Anuvākam  4
 
-ऊर्क्=  food material
-   सूनृता=    good word
-   पयः=   milk
-   रसः=  taste in it
-   घृतं=  ghee
-   मधु= honey
- सग्धिः=   eating along with relatives
-   सपीतिः=  drinking together
-  कृषिः=   agriculture
-  वृष्टिः=  rain
-  जैत्रं=  successful
- i.e. good=yielding land
-  औद्भिद्यं=  growth of plant
- creeper etc.
-  रयिः=  gold
-  रायः=  gem etc.
-  पुष्टं=   abundance of gem
- pearl etc.
-  पुष्टिः=  bodily strength
+The fourth Anuvaaka assures the courtesy, fitness of the body and the best food for the body, cosy and comfort. In other words, it describes the powers or qualities which nourish both our gross and mighty bodies. It includes, mental clarities, pleasant and true words, recognition of delight in all our works, freedom from hunger and all pervading nature etc. This anuvaaka also spells about, different names & varieties of grains, which represents a force which are necessary for our body.
 
+| Term/Word    | Meaning | Notes |
+| -------- | ------- | ---|
+| ऊर्क् |  food material| |
+| सूनृता|    good word| |
+| पयः|   milk | |
+| रसः|  taste in it| |
+| घृतं|  ghee| |
+| मधु| honey| |
+| सग्धिः|   eating along with relatives| |
+|   सपीतिः|  drinking together|
+|  कृषिः|   agriculture|
+|  वृष्टिः|  rain|
+|  जैत्रं|  successful good | yielding land |
+|  औद्भिद्यं|  growth of plant creeper etc.| with a cluster of greenly foliage with tall sky high grown trees |
+|  रयिः|  gold|
+|  रायः|  gem etc.|
+|  पुष्टं|   abundance of gems, pearls etc.|
+|  पुष्टिः|  bodily strength|
 
-विभु
- प्रभु
- बहु
- भूयः
- पूर्णं
- पूर्णतरं
- अक्षितिः= these seven words indicate progressive increase in growth of foodgrains
- the second indicating a higher growth than the first and so on; the seventh indicating the highest growth.
-
-कूयवाः=   minor foodgrains
-  अन्नं=  reputed food
-  अक्षुत्=  relief from hunger
-   व्रीहयः=  paddy
-  यवाः= barley
-   माषाः=  black gram
-  तिलाः=  gingelly
-  मुद्गाः= kidney=bean
- खल्वाः=  bean (another type)
- गोधूमाः=  wheat
-  मसुराः=  lentil (dal)
-   प्रियङ्गवः=  long pepper
-  अणवः=  thin paddy
-   श्यामाकाः=  corn
- नीवाराः=  wild rice.
-
- 
-
- 
-
- 
-
+|विभु|
+| प्रभु|
+| बहु|
+| भूयः|
+| पूर्णं|
+| पूर्णतरं|
+| अक्षितिः| these seven words indicate progressive increase in growth of foodgrains|
+| the second indicating a higher growth than the first and so on; the seventh indicating the highest growth.|
+||
+|कूयवाः|   minor foodgrains|
+|  अन्नं|  reputed food|
+|  अक्षुत्|  relief from hunger|
+|   व्रीहयः|  paddy|
+|  यवाः| barley|
+|   माषाः|  black gram |
+|  तिलाः|  gingelly|
+|  मुद्गाः| kidney bean|
+| खल्वाः|  bean (another type)|
+| गोधूमाः|  wheat |
+|  मसुराः|  lentil (dal)|
+|   प्रियङ्गवः|  Foxtail millets |
+|  अणवः|  thin paddy|
+|   श्यामाकाः|  corn|
+| नीवाराः|  wild rice.|
 पंचमोऽनुवाकः
 
-ANUVAKAM  5
-
+## चतुर्थोऽनुवाकः / Anuvākam  4
  
+| Term/Word    | Meaning | Notes |
+| -------- | ------- | ---|
+  |   अश्माः  |  Stone  |   |
+  |   मृत्तिकाः  |   soil  |   |
+  |   गिरयः  |  mountains worthy of worship Kulachalas  |   |
+  |   पर्वताः  |  ordinarymountains  |   |
+  |   सिकताः  |   sand  |   |
+  |   वनस्पतयः  |  trees growing vegetables/ fruits without flower  |   |
+  |   हिरण्यं  |   gold  |   |
+  |   अमः  |  iron  |   |
+  |   सीसं  |  lead  |   |
+  |   त्रपुः  |  tin  |   |
+  |   श्यामं  |  rock salt (black iron)  |   |
+  |   लोहं  |  bronze, copper etc.  |   |
+  |   अग्निः  |  fire  |   |
+  |   आपः  |   water  |   |
+  |   वीरुधः  |  plants and creepers  |   |
+  |   ओषधयः  |  herbs  |   |
+  |   कृष्टपच्यं  |  grown by planting and farming  |   |
+  |   अकृष्टपच्यं  |  grown on their own without farming  |   |
+  |   ग्राम्याः पशवः  |  [domesticated] animals growing in villages  |   |
+  |   आरण्याश्च  |   animals growing in forests  |   |
+  |   यज्ञेन  |   through the yagna I perform  |   |
+  |   कल्पन्ताम्  |  may become capable of doing their acts.| |
+  |   वित्तं  |  Wealth earned  |   |
+  |   वित्तिः  |  profit yet to be obtained  |   |
+  |   भूतं  |  wealthy son etc.  |   |
+  |   भूतिः  |  wealth etc. owned by me  |   |
+  |   वसु  |  cow etc. required for living  |   |
+  |   वसतिः  |  house for living etc.  |   |
+  |   कर्म  | karmas like Agnihotram etc.  |   |
+  |   शक्तिः  |  capacity to perform them  |   |
+  |   अर्थः  |  benefit from them  |   |
+  |   एमः  |   pleasure to be attained  |  A goal to reach by performing these karmas |
+  |   इतिः  |  means of attaining it  |   |
+  |   गतिः  |  attaining desired object.  | And, to reach the desired destination/aim  |
 
-अश्माः=  Stone
-   मृत्तिकाः= soil
-   गिरयः=   mountains worthy of worship
- Kulachalas
-   पर्वताः=   ordinary  mountains
-   सिकताः=    sand
-   वनस्पतयः=   trees growing vegetables/ fruits without flower
-  हिरण्यं= gold
-   अमः=  iron
-   सीसं=  lead
-   त्रपुः=  tin
-    श्यामं=  rock salt
-  लोहं=   bronze
- copper etc.
-  अग्निः=  fire
-  आपः=    water
-   वीरुधः=  plants
-   ओषधयः=  herbs
-   कृष्टपच्यं=  grown by planting and farming
-  अकृष्टपच्यं=  grown on their own without farming
-   ग्राम्याः पशवः=   animals growing in villages
-   आरण्याश्च=    animals growing in forests
-  यज्ञेन=    through the yagna I perform
-   कल्पन्ताम्=  may become capable of doing their acts.  वित्तं=  Wealth earned
-   वित्तिः=  profit yet to be obtained
-   भूतं=  wealthy son etc.
-  भूतिः=  wealth etc. owned by me
-   वसु=  cow etc. required for living
-  वसतिः=  house for living etc.
- कर्म=   karmas like Agnihotram etc.
-   शक्तिः=  capacity to perform them
-   अर्थः=  benefit from them
-  एमः=    pleasure to be attained
-  इतिः=  means of attaining it
-   गतिः=  attaining desired object.
-
- 
-
- 
-
- 
 
 षष्टोऽनुवाकः
 
@@ -908,39 +891,30 @@ ANUVAKAM  6
 
  
 
-In this Anuvakam
- it is prayed that Devatas= Agni
- Soma
- Savita
- Saraswati
- Poosha
- Brihaspati
- Mitra
- Varuna
- Tvashta
- Dhata
- Vishnu
- Asvinidevas
- Maruts
- Visvedevas
- Prithvi (Earth) Devata
- Antariksha (Intermediate region) Devata
- Dyuloka (Swarga) Devata
- Devatas of Directions
- Urdhvadik (Upward direction) Devata= all should be favourable to me. As indra enjoys pleasures equal to each of these Devatas
- Indra is cited with each Devata= ‘अग्निश्चम इन्द्रश्चमे
- सोमश्चम इन्द्रश्चमे’ etc.
+In this Anuvakam, Indra is cited with each Devata, `अग्निश्चम इन्द्रश्चमे सोमश्चम इन्द्रश्चमे`, etc. It is prayed that the devatās be favoriable with to me along with Indra (as indra enjoys pleasures equal to each of these Devatās).
 
- 
-
-मूर्धा= Urdhvadik (Upward Direction). As this direction is considered more important than all other directions
- it is mentioned separately.
-
- 
-
- 
-
- 
+| Term/Word | Meaning | Notes |
+| -------- | ------- | ---|
+| Agni | God of fire | |
+| Soma | Chandra/Moon | |
+| Savita | Surya/Sun | The radiance of `Savitur` / `surya` / `sun` |
+| Saraswati | Goddess of knowledge, Saraswati | |
+| Poosha | The radiance of the Sun god | |
+| Brihaspati | The supreme guru/teacher, Jupiter | Jupiter, also known as the Guru Graha or Guru or Brihaspati, is the planet of learning and wisdom. |
+| Mitra | Sun | in the Vedic texts and the Brāhmanās, Mitra is increasingly associated with the light of dawn and the morning sun |
+| Varuna | God of water | |
+| Tvashta | Divine architect (Viswakarma) | |
+| Dhata | Giver of all the dhāta | |
+| Vishnu | | |
+| Asvinidevas | The divine twin | healers | |
+| Maruts | the gods of winds | |
+| Visvedevas | The gods of the all/several/other worlds | |
+| Prithvi | The God of the Earth | |
+| Antariksha | Teh god of the space that is beyond the earth and the space in-between the celestial objects | |
+| Dyou: | (Swarga) Devata | |
+| Disā: | The Devatas of the Directions | |
+| moordhā: | The devata that resides at the crown/head/forehead | |
+| Prajaapati | | |
 
 सप्तमोऽनुवाकः
 
