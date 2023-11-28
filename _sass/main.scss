@@ -1,14 +1,14 @@
 // Fonts preferences
 $sans-family: Roboto, sans-serif;
-$mono-family: Courier, monospace;
+$mono-family: Consolas, monospace;
 $base-font-size: 16px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.85;
-$footnotes-font-size: 12px;
+$footnotes-font-size: 10px;
 
 // Font weight
-// $light-weight: 300; // uncomment if necessary
+$light-weight: 300; // uncomment if necessary
 $normal-weight: 400;
 $bold-weight: 700;
 // $black-weight: 900; // uncomment if necessary
@@ -19,6 +19,7 @@ $bold-weight: 700;
 // $text-link-blue-active: #0036c7;
 
 // -------------------------------------- LIGHT THEME COLORS
+$quote-block-color: #ff5277;
 $text-base-color: #434648;
 $text-link-blue: #ff5277;
 $text-link-blue-active: #ff2957;
@@ -32,6 +33,7 @@ $gray: #6b7886;
 $white: #fff;
 
 // -------------------------------------- DARK THEME COLORS
+$dark-quote-block-color: #ff5277;
 $dark-text-base-color: #c7bebe;
 $dark-text-link-blue: #ff5277;
 $dark-text-link-blue-active: #ff2957;
@@ -43,7 +45,7 @@ $dark-smoke: #4a4d56;
 $dark-gray: #767f87;
 
 // Width of the content area
-$wide-size: 890px;
+$wide-size: 1024px;
 $narrow-size: 720px;
 
 // Padding unit

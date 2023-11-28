@@ -22,6 +22,7 @@ Follow the below steps to setup multiple git accounts on macOS.
 4. [Create config file on your Mac](#section-4)
 5. [Make an Account Git Default](#section-5)
 6. [Use Git with Non-default or Secondary Accounts](#section-6)
+7. [Push from already cloned repositors](#section-7)
 
 # <a name="section-1"></a>1. Create SSH keys for the accounts 
 ---------------------------------------
@@ -148,3 +149,7 @@ $ git config user.email "{EMAIL FOR ACCOUNT TWO}"
 $ git config user.name "{YOUR NAME FOR ACCOUNT TWO}"
 ```
 
+# <a name="section-7"></a>7. Push from already cloned repositors
+---------------------------------------
+
+Referring the `config` file, you can use this command to use a particular git account.

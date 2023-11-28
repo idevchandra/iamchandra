@@ -55,7 +55,7 @@
       background: $light;
       bottom: 1px;
       content: " ";
-      height: 2px;
+      height: 3px;
       position: absolute;
       right: -20px;
       width: 12px;
@@ -90,6 +90,7 @@
   a {
     color: $text-link-blue;
     text-decoration: none;
+
     &[target="_blank"]::after {
       content: " \2197";
       font-size: $small-font-size;
@@ -108,14 +109,14 @@
     }
   }
 
-  > p {
+  >p {
     margin: 0;
     padding-top: $spacing-full - 15;
     padding-bottom: $spacing-full - 15;
   }
 
   ul.task-list {
-    list-style: none; 
+    list-style: none;
     margin: 0;
 
     li::before {

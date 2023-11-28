@@ -41,6 +41,7 @@ body[data-theme="dark"] {
     h3 {
       border-color: $dark-light;
     }
+
     h1,
     h2,
     h3,
@@ -110,8 +111,24 @@ body[data-theme="dark"] {
 
   // Blockquote
   blockquote {
-    color: $dark-gray;
-    border-color: $dark-light;
+    color: $gray;
+    font-style: normal;
+    text-align: left;
+    opacity: 1.0;
+    border-top: 0px solid $dark-text-link-blue;
+    border-left: 5px solid $dark-text-link-blue;
+    border-bottom: 0px solid $dark-text-link-blue;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 1em;
+
+    > :last-child {
+      margin-bottom: 0;
+      margin-top: 0;
+    }
+
+    // border-color: $dark-light;
   }
 
   // Strong, Bold
@@ -123,11 +140,13 @@ body[data-theme="dark"] {
   // Navbar
   .navbar {
     border-color: $dark-light;
+
     .menu {
       a#mode {
         .mode-sunny {
           display: block;
         }
+
         .mode-moon {
           display: none;
         }
@@ -136,17 +155,18 @@ body[data-theme="dark"] {
       .menu-link {
         color: $dark-white;
       }
+
       @include media-query($on-mobile) {
         background-color: $dark-black;
         border-color: $dark-light;
 
         .menu-icon {
-          > svg {
+          >svg {
             fill: $dark-white;
           }
         }
 
-        input[type="checkbox"]:checked ~ .trigger {
+        input[type="checkbox"]:checked~.trigger {
           background: $dark-black;
         }
       }
@@ -162,6 +182,7 @@ body[data-theme="dark"] {
     .post-item-date {
       color: $dark-white;
     }
+
     .post-item-title {
       a {
         color: $dark-text-base-color;
@@ -210,9 +231,11 @@ body[data-theme="dark"] {
     span.footer_item {
       color: $dark-white;
     }
+
     a.footer_item:not(:last-child) {
       color: $dark-white;
     }
+
     .footer_copyright {
       color: $dark-gray;
       opacity: 1;
@@ -225,22 +248,26 @@ body[data-theme="dark"] {
       color: $dark-white;
       text-shadow: 1px 0px 0px $dark-text-link-blue;
     }
+
     .phrase {
       color: $dark-text-base-color;
     }
+
     .solution {
       color: $dark-text-link-blue;
     }
+
     .solution:hover {
       color: $dark-text-link-blue-active;
     }
-  }  
+  }
 
   .search-article {
     input[type="search"] {
       color: $dark-text-base-color;
+
       &::-webkit-input-placeholder {
-        color: rgba(128,128,128,0.8);
+        color: rgba(128, 128, 128, 0.8);
       }
     }
   }
