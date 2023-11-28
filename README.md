@@ -5,6 +5,12 @@ bundle install
 bundle exec jekyll serve
 ```
 
+Push:
+
+```
+ssh-add --apple-use-keychain ~/.ssh/idevchandra
+```
+
 # Klisé
 
 Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
