@@ -18,7 +18,7 @@ Humane is a 2017 startup launched by a husband-and-wife team, [Imran Chaudhri](h
 
 # <a name="kudos"></a>First of all, kudos!
 
-Humane founderes were able to convince larger group of investors about their idea of new kind of a computing device in new form factor and a potentially new idea of interaction with it; hired great designers, hardware engineers and software developers; built a platform and services around it. And, above all they shipped that consumer device! Kudos!
+Humane founders were able to convince larger group of investors about their idea of new kind of a computing device in new form factor and a potentially new idea of interaction with it; hired great designers, hardware engineers and software developers; built a platform and services around it. And, above all they shipped that consumer device! Kudos!
 
 An idea of this size could die at any step and not see light. Sure, it must have been a tough journey and they must have enjoyed building Ai Pin. Congratulations. 
 
@@ -116,7 +116,7 @@ As demoed by Bethany Bongiorno in the above video, using the built-in projector 
 </figure>
 The first wearable computer that came in my mind talking of comfort and a projector is [Pranav Mistry](https://www.pranavmistry.com/archived/projects/sixthsense/#PICTURES)'s 2009-year's [Sixthsense](https://youtu.be/YrtANPtnhyg?t=415), a device that uses a camera and a projector. 
 
-Technology and implementation wise it might be very different from Ai Pin. But, basic essense and user's experience would be same.
+Technology and implementation wise it might be very different from Ai Pin. But, basic essence and user's experience would be same.
 
 ### Calls, Texts, Photos and Music
 
@@ -137,7 +137,7 @@ Press with one finger and hold the surface of Ai Pin to ask it something.
 
 # Cosmos Operating System
 
-Cosmos (stylyzed as CosmOS) operating system is based on Android. Humane claims that Cosmos has a groundbreaking AI frameworks that transform how cloud software interacts. And, they call it "Ai Bus". The idea is to eliminaes the era of apps, downloads, their management etc. Ai Bus quickly understands what you need, connecting you to the right Ai experience or service instantly.
+Cosmos (stylized as CosmOS) operating system is based on Android. Humane claims that Cosmos has a groundbreaking AI frameworks that transform how cloud software interacts. And, they call it "Ai Bus". The idea is to eliminates the era of apps, downloads, their management etc. Ai Bus quickly understands what you need, connecting you to the right Ai experience or service instantly.
 
 At user level, Ai Bus runs laser ink display, natural language processing and voice on high priority.
 
@@ -147,7 +147,7 @@ Two of the reasons of the Google Glass failure are the discomfort of wearing it 
 
 > The main critique of Google Glass wasn’t really that they looked stupid (although, to be clear, they did). People were kicked out of bars for wearing Glass because the device represented a form of ubiquitous recording. Glass was outfitted with a camera that the user could activate at any time, and this, rightfully, freaked people out. <i>- Wired magazine.</i>
 
-The promise of this wearable computer powered by AI is that it would quitely collect data and information and builds knowledge about your life and turn them into actions.
+The promise of this wearable computer powered by AI is that it would quietly collect data and information and builds knowledge about your life and turn them into actions.
 
 <figure>
 <img src="/assets/images/aipin/status.png">
@@ -168,7 +168,7 @@ Obviously, the development environment would be Android based as Cosmos runs on 
 
 # Some more thoughts
 
-- Even though Bethany Bongiorno mentioend in her tweet that it is not their goal at all to solve smartphone addiction, I really would use it just to avoid my smartphone :). No one is going to learn and control themselves from screentime measures :).  People, including kids, have been having hardtime time to escape from infinite scrolling. My mom sends me funny videos or jokes late in the nights :).
+- Even though Bethany Bongiorno mentioned in her tweet that it is not their goal at all to solve smartphone addiction, I really would use it just to avoid my smartphone :). No one is going to learn and control themselves from screen time measures :).  People, including kids, have been having hard time time to escape from infinite scrolling. My mom sends me funny videos or jokes late in the nights :).
 
 - I am up for the "all cloud" architecture of it. <img align="right" width="250" height="140.75" src="/assets/images/aipin/hpelite.webp">But, those chips with the disk that is running the Android based CosmOS is capable of driving a display. Connecting the device to a display and using it like a desktop is another experience. Just like Samsung's DeX or HP's Elite X3.
 
@@ -176,7 +176,7 @@ Obviously, the development environment would be Android based as Cosmos runs on 
 
 - I don't think video calls would be a good experience on this device. You would have to turn the device. But, hey, we do the same on smartphones too. 
 
-I will keep udating this article when something mentionable happens about this device. I love what they built. And, I am eager to see what this platform grows into. I wish the very best to the teams at Humane. 
+I will keep updating this article when something mentionable happens about this device. I love what they built. And, I am eager to see what this platform grows into. I wish the very best to the teams at Humane. 
 
 # See these devices also
 - [Pranav Mistry's Sixthsense](https://www.pranavmistry.com/archived/projects/sixthsense/)
