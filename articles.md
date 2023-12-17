@@ -4,6 +4,10 @@ permalink: /articles
 layout: page
 comments: false
 ---
+* [The Epic question: how Google lost when Apple won
+](./assets/EpicQuestion.pdf), from TheVerge. Dec 16, 2023.
+* [Transparent Content Moderation](https://sriramk.com/transparent-content-moderation), by Sriram Krishnan, Dec 3, 2022.
+* [The need to Read](http://paulgraham.com/read.html), by Paul Graham, Nov 2022.
 *   [Jony Ive on What He Misses Most About Steve Jobs](./assets/jonyive_on_stevejobs_10th_anniversary.pdf), on WSJ. Oct 4, 2021.
 *   [Steve Jobs’s last gambit: Apple’s M1 Chip](https://om.co/2020/11/17/why-m1-chip-by-apple-matters/), by Om Malik. Nov 17, 2020.
 *   [Inside Mark Zuckerberg's Lost Notebook](./assets/notebookofmarkz.pdf), from Wired. Feb 12, 2020.

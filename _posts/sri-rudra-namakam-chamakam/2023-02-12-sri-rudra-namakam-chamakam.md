@@ -1129,3 +1129,10 @@ By the odd numbers from 1 to 33
 Alternatively
  the twelve words from वाजः to अधिपतिः may be taken to mean the names of the twelve months from ‘Chaitra’ to ‘Phalguna’. In that case
  the idea is that those twelve months may do me good.
+
+
+
+aekaachamae
+tisraschamae
+panchachamae
+saptachamae
