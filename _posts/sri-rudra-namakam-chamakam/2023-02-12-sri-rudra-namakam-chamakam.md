@@ -87,22 +87,23 @@ There are a total of 11 Anuvakams (sections) in Sri Rudram.
 
 #### Meaning
 
-- रुद्र / రుద్ర = Parameswara! 
-- ते = your
-- मन्यवे = to anger
-- नमः = prostration
-- उतो = Further
-- ते = your
-- इषवे = to the arrow
-- नमः = prostration
-- ते = your
-- धन्वने = to the bow
-- नमः अस्तु = may my prostration be
-- उत = Further
-- ते = your
-- बाहुभ्यां = to the two arms
-- नमः = prostration.
-
+| Term/Word    | Meaning | Notes |
+| -------- | ------- | ---|
+| रुद्र | Parameswara | |
+| ते | your | |
+| मन्यवे | to anger | |
+| नमः | prostration | |
+| उतो | further | |
+| ते | your | |
+| इषवे | to the arrow | |
+| नमः | prostration | |
+| ते | your | |
+| धन्वने | to the bow | |
+| नमः अस्तु | may my prostration be | |
+| उत | further | |
+| ते | your | |
+| बाहुभ्यां | to the two arms | |
+| नमः | prostration | |
 
 #### Explanation 
 
@@ -116,9 +117,13 @@ It is said that it is necessary to know the Rishi, chandas and Devata of every m
 
 ##### Dhyanam:
 
-आकर्णकृष्टे धनुषि ज्वलन्तीं देवीमिषुं भास्वति सन्दधानम् ।
+```
+आकर्णकृष्टे धनुषि ज्वलन्तीं देवीमिषुं भास्वति सन्दधानम्।
+ध्यायेन्महेशं महनीयवेषं देव्या युतं योधतनुं युवानम्॥
 
-ध्यायेन्महेशं महनीयवेषं देव्या युतं योधतनुं युवानम् ॥
+ఆకర్ణకృష్టే  ధనుషీ జ్వలన్తీమ్  దేవిమిశుమ్  భాస్వతి సందధానం।
+ధ్యాయేన్మహేశం మహనీయ వేషం దేవ్యాయుతం యోధతనుం యువానం॥
+```
 
 "One should meditate upon Maheswara, who yokes a brilliant arrow to his shining bow, pulled to the ear; of handsome form, appearing like a warrior, youthful and accompanied by Devi."
 
@@ -134,23 +139,24 @@ This mantra will be fully efficacious to one who practises Praajaapatya krichchr
 యా త॒ ఇషుః॑ శి॒వత॑మా శి॒వం బ॒భూవ॑ తే॒ ధనుః॑ ।
 శి॒వా శ॑ర॒వ్యా॑ యా తవ॒ తయా॑ నో రుద్ర మృడయ ।
 ```
-
 #### Meaning:
-- रुद्र = Parameswara!
-- ते = your
-- या इषुः = which arrow
-- शिवतमा = most auspiciously
-- बभूव = exists
-- ते = your
-- धनुः = which bow
-- शिवं बभूव = is auspicious
-- तव = your
-- या शरव्या = which quiver
-- शिवा = is auspicious
-- तया = with that arrow
-- bow and quiver
-- नः = us
-- मृडय = make us happy
+
+| Term/Word    | Meaning | Notes |
+| -------- | ------- | ---|
+| रुद्र | Parameswara | |
+| ते | your | |
+| या इषुः| which arrow | |
+| शिवतमा |most auspiciously | |
+| बभूव | exists | |
+| ते |your| |
+| धनुः | which bow | |
+| शिवं बभूव |is auspicious  | |
+| तव|your | |
+| या शरव्या |which quiver | |
+| शिवा| is auspicious | |
+| तया |with that arrow | and bow and quiver |
+| नः | us | |
+| मृडय | make us happy | |
 
 #### Explanation
 
@@ -159,10 +165,13 @@ As usage of ‘lit’ is done in present tense also in Veda, Bhattabhaskara’s 
 The Rishi for this second mantra is Aathreya; chandas is Anushtup; Devata- Sambhu.
 
 ##### Dhyanam:
+```
+ध्यायेद्देवं सस्मितं स्यन्दनस्थं  देव्या सार्धं तेजसा दीप्यमानम्।
+इष्विष्वासालन्कृताभ्यां भुजाभ्यां शूराकारं स्तूयमानं सुरौघैः॥
 
-ध्यायेद्देवं सस्मितं स्यन्दनस्थं  देव्या सार्धं तेजसा दीप्यमानम्  ।
-
-इष्विष्वासालन्कृताभ्यां भुजाभ्यां शूराकारं स्तूयमानं सुरौघैः ॥
+ధ్యాయేద్దేవం సస్మితం స్యన్దనస్థం దేవ్యాసార్ధం తేజసాదీప్యమానం।
+ఇష్విష్వాసాలంకృతాభ్యాం భుజామ్యాం శూరాకారం స్తూయమానం సురైద్యైః॥
+```
 
 “One should meditate on Deva, who is seated in a chariot along with Devi, shining brilliantly, with the form of a valiant warrior, with both arms decorated with bow and arrow, extolled by Devaganas and with a smiling face.”
 
@@ -181,51 +190,48 @@ If this mantra is chanted constantly for twelve days excluding nights and withou
 
 #### Meaning 
 
-- रुद्र = Parameswara! 
-- ते = your
-- अघोरा = that which does not terrify (with weapons)
-- शिवा = granting worldly pleasures
-- अपापकाशिनी = granting Atmagnana the cause of the happiness of Liberation
-- या = which
-- तनूः = body
-- तया = that
-- शन्तमया = granting the highest happiness of Liberation
-- तनुवा = with the body
-- गिरिशन्त = Parameswara, who, being the object indicated by Vedas, grant all pleasures right upto Liberation
-- नः = us
-- अभिचाकशीहि = grant the knowledge of Atmatatva (Self-Principle)
+| Term/Word    | Meaning | Notes |
+| -------- | ------- | ---|
+| रुद्र | Parameswara | |
+| ते | your | |
+| अघोरा | that which does not terrify (with weapons) | |
+| शिवा | granting worldly pleasures | |
+| अपापकाशिनी | granting Atmagnana the cause of the happiness of Liberation | |
+| या | which | |
+| तनूः | body | |
+| तया | that | |
+| शन्तमया | granting the highest happiness of Liberation| |
+| तनुवा | with the body | |
+| गिरिशन्त | Parameswara, who, being the object indicated by Vedas, grant all pleasures right upto Liberation| |
+| नः | us | |
+| अभिचाकशीहि | grant the knowledge of Atmatatva (Self-Principle) | |
 
 #### Explanation
 
 Abhinavasankara comments that having prayed for worldly pleasures in the previous mantra, happiness of Liberation is prayed for in this mantra. Bhattabhaskara comments that some of the calm forms of Sri Parameswara have weapons; some do not have; in the previoua mantra, the form with weapons was prayed to and in this mantra, the form without weapons is worshipped.
 
-Aghora-  Form with weapons which terrifies persons without any reason is ‘ghora’; form which is not terrifying is ‘aghora’.
+- Aghora: Form with weapons which terrifies persons without any reason is `ghora`; form which is not terrifying is `aghora`.
+- Sivaa: auspicious, i.e. that which grants worldly pleasures also.
+- Apapakaasini: Here the term `apāpa` indicates Brahmatattva gnaana (Brahmatmatatvagnana?), which is opposed to sin. As Upanishad states that on rising of Atmagnana, all sins are destroyed, it follows that Atmagnana is the enemy of sins. The form which grants or lights up that Atmatatvagnana is referred as `Apapakaasini` here.
+- Girisantha: This term denoting Parameswara has been interpreted in many ways.
 
-Sivaa- auspicious, i.e. that which grants worldly pleasures also.
+	- गिरौ: कैलासे नित्याविर्भूतो यः प्राणिभ्यः शं तनोति स गिरिशन्तः - one who resides in Kailasa always and grants joys to all creatures.
+	- गिरौ: वेदे तिष्ठन्नर्थरूपेण शं तनोति - one who resides in Vedas as their meaning and grants joys to all.
+	- गिरौ: प्रणवे तिष्ठन् ध्येयरूपेण निरतिशयब्रह्मानन्दलक्षणं शं तनोति
+	
+	One who is in Pranava (Omkara) as the one to be meditated upon and grants the matchless bliss of Brahmananda.
+	
+	The Rishi for this mantra is Kaasyapa; chandas is svaraatanushtup; Devata is Sambhu.
 
-Apapakaasini- Here the term ‘Apapa’ indicates Brahmatmatatvagnana, which is opposed to sin. As Upanishad states that on rising of Atmagnana, all sins are destroyed, it follows that Atmagnana is the enemy of sins. The form which grants or lights up that Atmatatvagnana is referred as ‘Apapakaasini’ here.
+#### Dhyanam:
 
-Girisantha- This term denoting Parameswara has been interpreted in many ways.
+```
+स्मेराननं चन्द्रकलावतंसं गंगाधरं शैलसुतासहायम्।
+त्रिलोचनं भस्मभुजंगभूषणं ध्यायेत्पशूनां पतिमीशितारम्॥
 
-गिरौ = कैलासे नित्याविर्भूतो यः प्राणिभ्यः शं तनोति स गिरिशन्तः
-
-One who resides in Kailasa always and grants joys to all creatures.
-
-गिरौ- वेदे तिष्ठन्नर्थरूपेण शं तनोति
-
-One who resides in Vedas as their meaning and grants joys to all.
-
-गिरौ- प्रणवे तिष्ठन् ध्येयरूपेण निरतिशयब्रह्मानन्दलक्षणं शं तनोति
-
-One who is in Pranava (Omkara) as the one to be meditated upon and grants the matchless bliss of Brahmananda.
-
-The Rishi for this mantra is Kaasyapa; chandas is svaraatanushtup; Devata is Sambhu.
-
-Dhyanam:
-
-स्मेराननं चन्द्रकलावतंसं गंगाधरं शैलसुतासहायम् ।
-
-त्रिलोचनं भस्मभुजंगभूषणं ध्यायेत्पशूनां पतिमीशितारम् ॥
+స్మేరాననం చంద్రకలావతంశం గంగాధరం శైలసుతాసహాయమ్।
+త్రిలోచనం భస్మభుజంగభూషణం ధ్యాయేత్పశూనాంపతిమీశితారమ్॥
+```
 
 “One should meditate upon Iswara, who has a smiling face, wears crescent moon on his head, bears Ganga, has the daughter of Himavan (Parvatharaja) on his side, has three eyes, wearing Vibhuti and serpents as ornaments and is the lord of Jivas (Pasus).”
 
