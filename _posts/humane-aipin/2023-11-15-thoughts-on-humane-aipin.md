@@ -12,6 +12,10 @@ image: "/assets/images/multgits.png"
 <figcaption>Source: Humane</figcaption>
 </figure>
 
+[Update](https://arstechnica.com/gadgets/2025/02/truly-a-middle-finger-humane-bricking-700-ai-pins-with-limited-refunds/): Humane is shutting down. Most of the people who bought an AI Pin will not get refunds for the devices. The debut price was $700 which was dropped to $500. And, the devices will be bricked on February 28, 2025 at noon PT.
+
+---
+
 Humane is a 2017 startup launched by a husband-and-wife team, [Imran Chaudhri](http://www.imranchaudhri.com/) and [Bethany Bongiorno](https://twitter.com/bella_bongiorno) who used to work for Apple. Humane's flagship product is [Ai Pin](https://hu.ma.ne/aipin), a new type of standalone device with a software platform that uses AI for personal computing experiences.
 
 ---

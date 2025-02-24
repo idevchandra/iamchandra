@@ -1,14 +1,14 @@
 # Site settings
 title: Chandra Polepeddi # site title
-description: Chandra Polepeddi is a mobile applications lead architect and developer.
+description: Chandra Polepeddi is a mobile applications developer and a lead architect.
 lang: en-US # default lang
 image: /assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Chandra Polepeddi # author name
-  bio1: Chandra Polepeddi is a mobile applications lead architect and developer. 
+  bio1: Chandra Polepeddi is a mobile applications architect and developer. 
   bio2: He is experienced in leading, architecting and building customer facing quality applications in iOS, iPadOS, watchOS, macOS for Payments, Financial, Healthcare and Telecom R&D sectors.
   twitter: arcrandom # twitter username
   avatar: /assets/img/avatar.jpg # change with your own avatar
@@ -72,6 +72,7 @@ exclude:
   - node_modules
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+  - lighthouse.png
   - klise-*.gem
   - klise.gemspec
 
