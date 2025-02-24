@@ -167,15 +167,17 @@
 
   h1 {
     @include relative-font-size(1.5);
+    // border-top: 1px solid $light;    // Chandu added this.
   }
 
   h2 {
     @include relative-font-size(1.375);
+    border-top: 1px solid $light;    // Chandu added this.
   }
 
   h3 {
     @include relative-font-size(1.25);
-    border-bottom: 1px solid $light;
+    border-bottom: 0px solid $light;
     padding-bottom: 4px;
   }
 
