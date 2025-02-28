@@ -6,7 +6,6 @@ tags: [tech]
 description:
 image: "/assets/images/codereviews.jpg"
 ---
-
 <figure>
 <img src="/assets/images/codereviews.jpg" alt="">
 </figure>
