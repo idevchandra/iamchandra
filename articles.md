@@ -4,8 +4,7 @@ permalink: /articles
 layout: page
 comments: false
 ---
-* [The Epic question: how Google lost when Apple won
-](./assets/EpicQuestion.pdf), from TheVerge. Dec 16, 2023.
+* [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html), by Jeff Johnson, Feb 24, 2025.
 * [Transparent Content Moderation](https://sriramk.com/transparent-content-moderation), by Sriram Krishnan, Dec 3, 2022.
 * [The need to Read](http://paulgraham.com/read.html), by Paul Graham, Nov 2022.
 *   [Jony Ive on What He Misses Most About Steve Jobs](./assets/jonyive_on_stevejobs_10th_anniversary.pdf), on WSJ. Oct 4, 2021.
