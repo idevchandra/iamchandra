@@ -1,7 +1,7 @@
 ---
 title: ML with Swift - Create ML Text Analysis
-date: 2025-01-11 11:58:47 +00:00
-modified: 2025-01-11 11:58:47 +00:00
+date: 2025-01-18 11:58:47 +00:00
+modified: 2025-01-18 11:58:47 +00:00
 tags: [AI-ML]
 description:
 image: "/assets/images/coreml/createml-banner.png"
